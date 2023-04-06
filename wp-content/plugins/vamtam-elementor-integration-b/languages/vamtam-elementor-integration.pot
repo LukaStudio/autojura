@@ -1,0 +1,502 @@
+# Copyright (C) 2023 VamTam
+# This file is distributed under the same license as the VamTam Elementor Integration B package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VamTam Elementor Integration B 2.0.11\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/vamtam-elementor-integration-b\n"
+"POT-Creation-Date: 2023-01-27 17:54:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/dynamic-tags/vamtam-author-profile-picture.php:29
+msgid "Author Profile Picture (Large)"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:36
+#: includes/dynamic-tags/vamtam-popup.php:65
+msgid "Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:51
+msgid "Action"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:55
+msgid "Open Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:56
+msgid "Close Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:57
+msgid "Toggle Popup"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:90
+msgid "Don't Show Again"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:101
+msgid "Align With Parent"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:110
+msgid ""
+"<i style=\"font-size:11px;line-height:1.4;color:#a4afb7;\">On desktop, the "
+"popup will be positioned relative to it's parent.</i>"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:120
+msgid "Use Vamtam Popup Toggle"
+msgstr ""
+
+#: includes/dynamic-tags/vamtam-popup.php:132
+msgid ""
+"<i style=\"font-size:11px;line-height:1.4;color:#a4afb7;\">Theme extension "
+"of the core Elementor popup toggle implementation. Use "
+"<strong>only</strong> with icon widget.</i>"
+msgstr ""
+
+#: includes/kits/documents/kit.php:370
+msgid "WooCommerce Buttons"
+msgstr ""
+
+#: includes/kits/documents/kit.php:379
+msgid ""
+"These options affect buttons <strong>only</strong> at standard WooCommerce "
+"pages like:<ul style=\"padding:10px;\"><li>- The Cart page,</li><li>- The "
+"Checkout page</li><li>- The My Account Page</li></ul> e.t.c."
+msgstr ""
+
+#: includes/kits/documents/kit.php:387
+msgid "Typography"
+msgstr ""
+
+#: includes/kits/documents/kit.php:406 includes/widgets/archive-posts.php:106
+#: includes/widgets/form.php:80 includes/widgets/posts-base.php:73
+#: includes/widgets/product-add-to-cart.php:86
+#: includes/widgets/products-base.php:60 includes/widgets/products-base.php:176
+#: includes/widgets/woocommerce-menu-cart.php:78
+#: includes/widgets/woocommerce-menu-cart.php:349
+msgid "Normal"
+msgstr ""
+
+#: includes/kits/documents/kit.php:413 includes/kits/documents/kit.php:479
+#: includes/widgets/form.php:87 includes/widgets/form.php:168
+#: includes/widgets/form.php:264 includes/widgets/product-add-to-cart.php:93
+#: includes/widgets/product-add-to-cart.php:134
+#: includes/widgets/products-base.php:183
+#: includes/widgets/products-base.php:219
+#: includes/widgets/woocommerce-menu-cart.php:356
+#: includes/widgets/woocommerce-menu-cart.php:392
+#: includes/widgets/woocommerce-product-images.php:162
+msgid "Text Color"
+msgstr ""
+
+#: includes/kits/documents/kit.php:425 includes/kits/documents/kit.php:491
+#: includes/widgets/archive-posts.php:121
+#: includes/widgets/archive-posts.php:159 includes/widgets/form.php:102
+#: includes/widgets/form.php:180 includes/widgets/form.php:276
+#: includes/widgets/posts-base.php:91 includes/widgets/posts-base.php:122
+#: includes/widgets/posts-base.php:153
+#: includes/widgets/product-add-to-cart.php:104
+#: includes/widgets/product-add-to-cart.php:145
+#: includes/widgets/products-base.php:66 includes/widgets/products-base.php:87
+#: includes/widgets/woocommerce-product-images.php:176
+msgid "Background Color"
+msgstr ""
+
+#: includes/kits/documents/kit.php:458 includes/kits/documents/kit.php:524
+#: includes/widgets/archive-posts.php:50 includes/widgets/form.php:147
+#: includes/widgets/form.php:224 includes/widgets/form.php:320
+#: includes/widgets/product-add-to-cart.php:62
+#: includes/widgets/products-base.php:304
+#: includes/widgets/woocommerce-menu-cart.php:455
+#: includes/widgets/woocommerce-product-images.php:201
+msgid "Border Radius"
+msgstr ""
+
+#: includes/kits/documents/kit.php:472 includes/widgets/archive-posts.php:144
+#: includes/widgets/form.php:161 includes/widgets/posts-base.php:104
+#: includes/widgets/product-add-to-cart.php:127
+#: includes/widgets/products-base.php:81 includes/widgets/products-base.php:212
+#: includes/widgets/woocommerce-menu-cart.php:100
+#: includes/widgets/woocommerce-menu-cart.php:385
+msgid "Hover"
+msgstr ""
+
+#: includes/kits/documents/kit.php:540 includes/widgets/archive-posts.php:68
+#: includes/widgets/form.php:64 includes/widgets/posts-base.php:45
+#: includes/widgets/product-add-to-cart.php:73
+#: includes/widgets/products-base.php:324
+#: includes/widgets/woocommerce-menu-cart.php:300
+#: includes/widgets/woocommerce-menu-cart.php:475
+msgid "Padding"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:19
+msgid "Theme Settings"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:48
+msgid ""
+"<h3><strong>After saving your changes, a page refresh will be needed for "
+"the changes to take effect.</strong/></h3>"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:67
+msgid "Widgets"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:76
+msgid ""
+"<h3>Using the switches below, you can easily toggle the theme's custom "
+"implementation for a particular widget type on and off.</h3>"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:84
+msgid "Enable All Widget Modifications"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:97
+msgid "Disable All Widget Modifications"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:150
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:159
+msgid ""
+"<h3>Using the switches below, you can easily toggle the theme's custom "
+"WC-related implementation on and off.</h3>"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:167
+msgid "Enable All WC Modifications"
+msgstr ""
+
+#: includes/site-settings/theme-site-settings.php:180
+msgid "Disable All WC Modifications"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:67
+msgid "Image - Grow With Scale (Left)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:68
+msgid "Image - Grow With Scale (Right)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:69
+msgid "Image - Grow With Scale (Top)"
+msgstr ""
+
+#: includes/vamtam-elementor-hooks.php:70
+msgid "Image - Grow With Scale (Bottom)"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:21
+msgid "Box"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:32
+msgid "Border Width"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:86
+msgid "Content Padding"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:132
+#: includes/widgets/archive-posts.php:170 includes/widgets/posts-base.php:32
+#: includes/widgets/product-add-to-cart.php:115
+#: includes/widgets/product-add-to-cart.php:156
+#: includes/widgets/products-base.php:256
+#: includes/widgets/woocommerce-menu-cart.php:420
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/archive-posts.php:181
+msgid "Content Color"
+msgstr ""
+
+#: includes/widgets/form.php:44
+msgid "Field"
+msgstr ""
+
+#: includes/widgets/form.php:65
+msgid "Applies to fields & labels."
+msgstr ""
+
+#: includes/widgets/form.php:237 includes/widgets/product-add-to-cart.php:167
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/widgets/form.php:257
+msgid "Focus"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:23
+msgid "Disable Page Scroll"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:24
+msgid "Disables the page scroll when the mobile dropdown menu is toggled."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:34
+msgid "Enforce Max Height"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:35
+msgid ""
+"Use this option if the mobile dropdown menu is getting cut and items become "
+"unreachable."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:47
+msgid "Max Height (vh)"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:48
+msgid ""
+"Adjust this value until all items are scroll-reachable. Test this on the "
+"frontend as on the editor there can be elements that take up space which "
+"are hidden on the frontend.<i>Please ignore the desktop variant of this "
+"option as its value is not used.</i>"
+msgstr ""
+
+#: includes/widgets/posts-base.php:20
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/posts-base.php:22
+#: includes/widgets/woocommerce-product-images.php:151
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/posts-base.php:23
+#: includes/widgets/woocommerce-product-images.php:150
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/posts-base.php:80 includes/widgets/posts-base.php:111
+#: includes/widgets/posts-base.php:142
+#: includes/widgets/woocommerce-menu-cart.php:87
+#: includes/widgets/woocommerce-menu-cart.php:107
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/posts-base.php:135
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/posts-base.php:167
+#: includes/widgets/woocommerce-menu-cart.php:282
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/posts-base.php:191 includes/widgets/products-base.php:337
+#: includes/widgets/woocommerce-menu-cart.php:55
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:28
+#: includes/widgets/woocommerce-menu-cart.php:324
+msgid "View Cart"
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:37
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If "
+"you experience any such issue, try to switch to a basic theme and "
+"deactivate related plugins."
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:212
+msgid "Disable Theme's Ajax Handler"
+msgstr ""
+
+#: includes/widgets/product-add-to-cart.php:213
+msgid ""
+"Disables theme's Ajax add-to-cart handler implementation for single "
+"products."
+msgstr ""
+
+#: includes/widgets/products-base.php:52
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/products-base.php:111
+msgid "Use Title Min Height"
+msgstr ""
+
+#: includes/widgets/products-base.php:112
+msgid ""
+"Use this option to equalize any differences caused by inconsistent title "
+"names."
+msgstr ""
+
+#: includes/widgets/products-base.php:122
+msgid "Min Height"
+msgstr ""
+
+#: includes/widgets/products-base.php:196
+#: includes/widgets/products-base.php:238
+#: includes/widgets/woocommerce-menu-cart.php:369
+#: includes/widgets/woocommerce-menu-cart.php:405
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/section.php:19
+msgid "Use Theme Sticky Header (Desktop)"
+msgstr ""
+
+#: includes/widgets/section.php:31
+msgid "Header Is Transparent"
+msgstr ""
+
+#: includes/widgets/tabs.php:17
+msgid "Disable Default Tab Animation"
+msgstr ""
+
+#: includes/widgets/tabs.php:18
+msgid "Disables the default tab switching animation."
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:31
+msgid "Cart"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:220
+msgid "Hide on Cart/Checkout"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:221
+msgid "Hides the menu-card widget on WC's Cart & Checkout pages."
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:255
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:258
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:259
+msgid "Stacked"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:324
+msgid "Checkout"
+msgstr ""
+
+#: includes/widgets/woocommerce-menu-cart.php:539
+msgid "Qty"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:31
+msgid "Disable Image Link"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:35
+msgid ""
+"Disables opening the image on a new tab or Elementor lightbox. Doesn't "
+"disable WC's lightbox (if enabled)."
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:140
+#: includes/widgets/woocommerce-product-images.php:148
+msgid "Sale Flash"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:216
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:231
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:246
+msgid "Position"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:250
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:254
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/woocommerce-product-images.php:274
+msgid "Distance"
+msgstr ""
+
+#: vamtam-elementor-integration.php:71
+#. translators: 1: Plugin name 2: Elementor
+msgid ""
+"\"%1$s\" requires an Elementor-based VamTam theme to be activated in order "
+"to work."
+msgstr ""
+
+#: vamtam-elementor-integration.php:72 vamtam-elementor-integration.php:84
+#: vamtam-elementor-integration.php:97
+msgid "Vamtam Elementor Integration"
+msgstr ""
+
+#: vamtam-elementor-integration.php:83
+#. translators: 1: Plugin name 2: Elementor
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: vamtam-elementor-integration.php:85 vamtam-elementor-integration.php:98
+msgid "Elementor"
+msgstr ""
+
+#: vamtam-elementor-integration.php:96
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: vamtam-elementor-integration.php:258
+msgid "Additional JS"
+msgstr ""
+
+#: vamtam-elementor-integration.php:291
+msgid "Before </head>"
+msgstr ""
+
+#: vamtam-elementor-integration.php:304
+msgid "After <body>"
+msgstr ""
+
+#: vamtam-elementor-integration.php:317
+msgid "Before </body>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "VamTam Elementor Integration B"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://vamtam.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Extend the Elementor plugin with widgets and template builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VamTam"
+msgstr ""

@@ -1,0 +1,44 @@
+// Product Categories - Mobile.
+.elementor-widget-wc-categories {
+	// Base Theme Widget Styles.
+	&.vamtam-has-theme-widget-styles {
+		// WC Products Categories
+		ul.products li.product-category.product {
+			> a {
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+			}
+
+			.vamtam-hover-wrap {
+				position: relative;
+				height: auto;
+
+				.vamtam-product-cat-btn {
+					opacity: 1;
+					position: relative;
+					transform: translateY(0);
+				}
+			}
+			.vamtam-product-cat-content {
+				flex: 1;
+				padding-top: 0;
+				padding-left: 20px;
+				padding-right: 20px;
+				padding-bottom: 45px;
+
+				&, > * {
+					transform: translateY(0);
+				}
+			}
+
+			&:hover {
+				> a img,
+				.vamtam-product-cat-content,
+				.vamtam-product-cat-content > * {
+					transform: translateY(0);
+				}
+			}
+		}
+	}
+}

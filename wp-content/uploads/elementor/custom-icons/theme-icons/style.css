@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'theme-icons';
+  src:
+    url('https://autojura.lt/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.ttf?jdo14z') format('truetype'),
+    url('https://autojura.lt/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.woff?jdo14z') format('woff'),
+    url('https://autojura.lt/wp-content/uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.svg?jdo14z#theme-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="vamtam-theme-"], [class*=" vamtam-theme-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'theme-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vamtam-theme-close:before {
+  content: "\e905";
+}
+.vamtam-theme-arrow-down:before {
+  content: "\e900";
+}
+.vamtam-theme-arrow-left:before {
+  content: "\e901";
+}
+.vamtam-theme-quote:before {
+  content: "\e902";
+}
+.vamtam-theme-star-empty:before {
+  content: "\e903";
+}
+.vamtam-theme-star-full:before {
+  content: "\e904";
+}

@@ -1,0 +1,134 @@
+// Product Categories.
+.elementor-widget-wc-categories {
+	// Base Theme Widget Styles.
+	&.vamtam-has-theme-widget-styles {
+		// WC Products Categories
+		ul.products li.product-category.product {
+			overflow: hidden;
+			@slide-up-val: 60px; // The amount of space the content will take from the thumbnail sliding upwards.
+			> a, > a:hover {
+				color: inherit;
+			}
+
+			> a img {
+				margin: 0;
+			}
+
+			.vamtam-product-cat-content {
+				padding-top: @slide-up-val;
+				background-color: var(--vamtam-accent-color-5);
+
+				> * {
+					transform: translateY(-@slide-up-val);
+				}
+			}
+
+			> a img,
+			.vamtam-product-cat-content {
+				transition: transform .4s cubic-bezier(0, 0, 0.2, 1) !important;
+			}
+
+			.vamtam-hover-wrap {
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				left: 0;
+				top: 0;
+				z-index: 0;
+				overflow: hidden;
+				.vamtam-product-cat-btn {
+					display: inline-block;
+					position: absolute;
+					text-align: center;
+					text-decoration: none;
+					left: 0px;
+					bottom: 0px;
+					width: 100%;
+					min-height: 60px;
+					opacity: 0;
+					transition: transform .5s ease, opacity .5s ease, color .3s ease-out, border .3s ease-out, background .3s ease-out, box-shadow .3s ease-out !important; // !important necessary for RevSlider compatibility (>=5.1)
+					will-change: transform;
+					transform: translateY(60px);
+				}
+			}
+
+			&:hover {
+				.vamtam-product-cat-content {
+					transform: translateY(-@slide-up-val);
+				}
+
+				.vamtam-hover-wrap {
+					.vamtam-product-cat-btn {
+						opacity: 1;
+						transform: translateY(0);
+					}
+				}
+
+			}
+			.vamtam-product-cat-content {
+				padding-left: 50px;
+				padding-right: 50px;
+				margin-bottom: -15px;
+			}
+			.woocommerce-loop-category__title,
+			.vamtam-product-cat-class-description {
+				padding: 10px 0;
+			}
+			.woocommerce-loop-category__title {
+				padding-top: 30px;
+			}
+			.vamtam-product-cat-class-description {
+				padding-bottom: 0;
+			}
+		}
+
+		// WC Products Categories
+		ul.product-categories {
+			li.current-cat {
+				a {
+					color: var( --vamtam-body-link-hover );
+				}
+			}
+		}
+
+		// Touch devices (and others with reduced pointer accuracy).
+		@media (pointer:coarse) {
+			// WC Products Categories
+			ul.products li.product-category.product {
+				> a {
+					display: flex;
+					flex-direction: column;
+					height: 100%;
+				}
+
+				.vamtam-hover-wrap {
+					position: relative;
+					height: auto;
+
+					.vamtam-product-cat-btn {
+						opacity: 1;
+						position: relative;
+						transform: translateY(0);
+					}
+				}
+				.vamtam-product-cat-content {
+					flex: 1;
+					padding-top: 0;
+					margin-bottom: 45px;
+
+					&, > * {
+						transform: translateY(0);
+					}
+				}
+
+				&:hover {
+					> a img,
+					.vamtam-product-cat-content,
+					.vamtam-product-cat-content > * {
+						transform: translateY(0);
+					}
+				}
+			}
+		}
+	}
+}

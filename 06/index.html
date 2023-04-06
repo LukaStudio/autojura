@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+	<title>06 - Autojura</title>
+<style id="vamtam-theme-options">:root {--vamtam-default-bg-color:#fff;
+--vamtam-default-line-color:rgba( var( --vamtam-accent-color-7-rgb ), 1 );
+--vamtam-small-padding:20px;
+--vamtam-horizontal-padding:50px;
+--vamtam-vertical-padding:30px;
+--vamtam-horizontal-padding-large:60px;
+--vamtam-vertical-padding-large:60px;
+--vamtam-no-border-link:none;
+--vamtam-border-radius:0px;
+--vamtam-border-radius-oval:0px;
+--vamtam-border-radius-small:0px;
+--vamtam-overlay-color:#000000;
+--vamtam-overlay-color-hc:#ffffff;
+--vamtam-box-outer-padding:60px;
+--vamtam-body-link-regular:#171616;
+--vamtam-body-link-visited:#171616;
+--vamtam-body-link-hover:#DB2411;
+--vamtam-body-link-active:#DB2411;
+--vamtam-input-border-radius:0px 0px 0px 0px;
+--vamtam-input-border-color:transparent;
+--vamtam-btn-text-color:#FFFFFF;
+--vamtam-btn-hover-text-color:#FFFFFF;
+--vamtam-btn-bg-color:#171616;
+--vamtam-btn-hover-bg-color:#DB2411;
+--vamtam-site-max-width:1500px;
+--vamtam-primary-font-color:#4C4C4C;
+--vamtam-h1-color:#171616;
+--vamtam-h2-color:#171616;
+--vamtam-h3-color:#171616;
+--vamtam-h4-color:#171616;
+--vamtam-h5-color:#171616;
+--vamtam-h6-color:#171616;
+--vamtam-accent-color-1:#171616;
+--vamtam-accent-color-1-hc:#FFFFFF;
+--vamtam-accent-color-1-rgb:23,22,22;
+--vamtam-accent-color-2:#DB2411;
+--vamtam-accent-color-2-hc:#FFFFFF;
+--vamtam-accent-color-2-rgb:219,36,17;
+--vamtam-accent-color-3:#4C4C4C;
+--vamtam-accent-color-3-hc:#FFFFFF;
+--vamtam-accent-color-3-rgb:76,76,76;
+--vamtam-accent-color-4:#FFFFFF;
+--vamtam-accent-color-4-hc:#000000;
+--vamtam-accent-color-4-rgb:255,255,255;
+--vamtam-accent-color-5:#F3F3F3;
+--vamtam-accent-color-5-hc:#000000;
+--vamtam-accent-color-5-rgb:243,243,243;
+--vamtam-accent-color-6:#000000;
+--vamtam-accent-color-6-hc:#FFFFFF;
+--vamtam-accent-color-6-rgb:0,0,0;
+--vamtam-accent-color-7:#00000080;
+--vamtam-accent-color-7-hc:#FFFFFF;
+--vamtam-accent-color-7-rgb:0,0,0;
+--vamtam-accent-color-8:#FFFFFFB3;
+--vamtam-accent-color-8-hc:#000000;
+--vamtam-accent-color-8-rgb:255,255,255;
+--vamtam-sticky-header-bg-color:#FFFFFF;
+--vamtam-primary-font-font-family:'Poppins';
+--vamtam-primary-font-font-weight:400;
+--vamtam-primary-font-font-size-desktop:16px;
+--vamtam-primary-font-font-size-tablet:16px;
+--vamtam-primary-font-font-size-phone:16px;
+--vamtam-primary-font-line-height-desktop:1.5em;
+--vamtam-primary-font-line-height-tablet:1.5em;
+--vamtam-primary-font-line-height-phone:1.5em;
+--vamtam-h1-font-family:'Poppins';
+--vamtam-h1-font-weight:700;
+--vamtam-h1-transform:uppercase;
+--vamtam-h1-font-size-desktop:68px;
+--vamtam-h1-font-size-tablet:55px;
+--vamtam-h1-font-size-phone:40px;
+--vamtam-h1-line-height-desktop:1.1em;
+--vamtam-h1-line-height-tablet:1.1em;
+--vamtam-h1-line-height-phone:1.1em;
+--vamtam-h2-font-family:'Poppins';
+--vamtam-h2-font-weight:700;
+--vamtam-h2-font-style:normal;
+--vamtam-h2-transform:uppercase;
+--vamtam-h2-font-size-desktop:48px;
+--vamtam-h2-font-size-tablet:35px;
+--vamtam-h2-font-size-phone:30px;
+--vamtam-h2-line-height-desktop:1.2em;
+--vamtam-h2-line-height-tablet:1.2em;
+--vamtam-h2-line-height-phone:1.2em;
+--vamtam-h3-font-family:'Poppins';
+--vamtam-h3-font-weight:700;
+--vamtam-h3-transform:uppercase;
+--vamtam-h3-font-size-desktop:30px;
+--vamtam-h3-font-size-tablet:28px;
+--vamtam-h3-font-size-phone:28px;
+--vamtam-h3-line-height-desktop:1.3em;
+--vamtam-h3-line-height-tablet:1.3em;
+--vamtam-h3-line-height-phone:1.3em;
+--vamtam-h4-font-family:'Poppins';
+--vamtam-h4-font-weight:500;
+--vamtam-h4-transform:uppercase;
+--vamtam-h4-font-size-desktop:22px;
+--vamtam-h4-font-size-tablet:22px;
+--vamtam-h4-font-size-phone:22px;
+--vamtam-h4-line-height-desktop:1.4em;
+--vamtam-h4-line-height-tablet:1.4em;
+--vamtam-h4-line-height-phone:1.4em;
+--vamtam-h5-font-family:'Poppins';
+--vamtam-h5-font-weight:700;
+--vamtam-h5-transform:uppercase;
+--vamtam-h5-font-size-desktop:20px;
+--vamtam-h5-font-size-tablet:20px;
+--vamtam-h5-font-size-phone:20px;
+--vamtam-h5-line-height-desktop:1.4em;
+--vamtam-h5-line-height-tablet:1.4em;
+--vamtam-h5-line-height-phone:1.4em;
+--vamtam-h5-letter-spacing-desktop:2px;
+--vamtam-h5-letter-spacing-tablet:2px;
+--vamtam-h5-letter-spacing-phone:2px;
+--vamtam-h6-font-family:'Poppins';
+--vamtam-h6-font-weight:600;
+--vamtam-h6-transform:uppercase;
+--vamtam-h6-font-size-desktop:18px;
+--vamtam-h6-font-size-tablet:18px;
+--vamtam-h6-font-size-phone:18px;
+--vamtam-h6-line-height-desktop:1.3em;
+--vamtam-h6-line-height-tablet:1.3em;
+--vamtam-h6-line-height-phone:1.3em;
+--vamtam-icon-close:'\e905';
+--vamtam-icon-arrow-down:'\e900';
+--vamtam-icon-arrow-left:'\e901';
+--vamtam-icon-quote:'\e902';
+--vamtam-icon-star-empty:'\e903';
+--vamtam-icon-star-full:'\e904';
+--vamtam-loading-animation:url('https://autojura.lt/wp-content/themes/macchina/vamtam/assets/images/loader-ring.gif');
+}</style>
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="Autojura &raquo; Feed" href="https://autojura.lt/feed/">
+<link rel="alternate" type="application/rss+xml" title="Autojura &raquo; Comments Feed" href="https://autojura.lt/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://autojura.lt/wp-includes/css/dist/block-library/style.min.css?ver=6.2" type="text/css" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://autojura.lt/wp-includes/css/classic-themes.min.css?ver=6.2" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="elementor-icons-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://autojura.lt/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1680704787" type="text/css" media="all">
+<link rel="stylesheet" id="swiper-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-9-css" href="https://autojura.lt/wp-content/uploads/elementor/css/post-9.css?ver=1680693765" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://autojura.lt/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1680704787" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-theme-icons-css" href="https://autojura.lt/wp-content/uploads/elementor/custom-icons/theme-icons/style.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.11.5" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.11.5" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-16329-css" href="https://autojura.lt/wp-content/uploads/elementor/css/post-16329.css?ver=1680706310" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-987853-css" href="https://autojura.lt/wp-content/uploads/elementor/css/post-987853.css?ver=1680766004" type="text/css" media="all">
+<link rel="stylesheet" id="vamtam-front-all-css" href="https://autojura.lt/wp-content/themes/macchina/vamtam/assets/css/dist/elementor/elementor-all.css?ver=1679417145" type="text/css" media="all">
+<style id="vamtam-front-all-inline-css" type="text/css">@font-face {
+				font-family: 'icomoon';
+				src: url(https://autojura.lt/wp-content/themes/macchina/vamtam/assets/fonts/icons/icomoon.woff2) format('woff2'),
+					 url( https://autojura.lt/wp-content/themes/macchina/vamtam/assets/fonts/icons/icomoon.woff) format('woff'),
+					 url(https://autojura.lt/wp-content/themes/macchina/vamtam/assets/fonts/icons/icomoon.ttf) format('ttf');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+				@font-face {
+					font-family: 'vamtam-theme';
+					src: url(https://autojura.lt/wp-content/themes/macchina/vamtam/assets/fonts/theme-icons/theme-icons.woff2) format('woff2'),
+						url(https://autojura.lt/wp-content/themes/macchina/vamtam/assets/fonts/theme-icons/theme-icons.woff) format('woff');
+					font-weight: normal;
+					font-style: normal;
+					font-display: swap;
+				}</style>
+<link rel="stylesheet" id="vamtam-theme-elementor-max-css" href="https://autojura.lt/wp-content/themes/macchina/vamtam/assets/css/dist/elementor/responsive/elementor-max.css?ver=1679417145" type="text/css" media="(min-width: 1025px)">
+<link rel="stylesheet" id="vamtam-theme-elementor-below-max-css" href="https://autojura.lt/wp-content/themes/macchina/vamtam/assets/css/dist/elementor/responsive/elementor-below-max.css?ver=1679417145" type="text/css" media="(max-width: 1024px)">
+<link rel="stylesheet" id="vamtam-theme-elementor-small-css" href="https://autojura.lt/wp-content/themes/macchina/vamtam/assets/css/dist/elementor/responsive/elementor-small.css?ver=1679417145" type="text/css" media="(max-width: 768px)">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://autojura.lt/wp-content/uploads/sgf-css/font-479e44c3c0622d99545dd5a1c006afae.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" type="text/css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.11.5" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://autojura.lt/wp-json/">
+<link rel="alternate" type="application/json" href="https://autojura.lt/wp-json/wp/v2/media/16109">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://autojura.lt/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://autojura.lt/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.2">
+<link rel="shortlink" href="https://autojura.lt/?p=16109">
+<link rel="alternate" type="application/json+oembed" href="https://autojura.lt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fautojura.lt%2F06%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://autojura.lt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fautojura.lt%2F06%2F#038;format=xml">
+<meta name="generator" content="Elementor 3.11.5; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="canonical" href="https://autojura.lt/06/">
+<meta name="title" content="06 - Autojura">
+<link rel="icon" href="https://autojura.lt/wp-content/uploads/2021/02/favicon.png" sizes="32x32">
+<link rel="icon" href="https://autojura.lt/wp-content/uploads/2021/02/favicon.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://autojura.lt/wp-content/uploads/2021/02/favicon.png">
+<meta name="msapplication-TileImage" content="https://autojura.lt/wp-content/uploads/2021/02/favicon.png">
+		<style type="text/css" id="wp-custom-css">.elementor-button-text {
+    text-align: left;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+
+    text-align: left;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+
+    width: 22%;
+}
+
+ol, ul:not(.wp-block-gallery) {
+    margin: 0;
+}
+
+.elementor-widget-post-comments.vamtam-has-theme-widget-styles .comments a.comment-reply-link, .elementor-widget-post-comments.vamtam-has-theme-widget-styles .woocommerce #reviews #comments a.comment-reply-link {
+	padding: 6px 16px;
+}
+
+::selection {
+      background: #FFB703;
+      color: #171616;
+}</style>
+		</head>
+<body class="attachment attachment-template-default single single-attachment postid-16109 attachmentid-16109 attachment-jpeg wp-custom-logo wp-embed-responsive full header-layout-logo-menu has-page-header no-middle-header responsive-layout single-post-one-column elementor-active elementor-pro-active vamtam-wc-cart-empty wc-product-gallery-zoom-active wc-product-gallery-slider-active layout-full elementor-default elementor-kit-9">
+	<div id="top"></div>
+	<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
+			<div data-elementor-type="header" data-elementor-id="16329" class="elementor elementor-16329 elementor-location-header">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-558e7610 elementor-section-height-min-height elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="558e7610" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4679e161" data-id="4679e161" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-60a8a066 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default" data-id="60a8a066" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1c319e44" data-id="1c319e44" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8b5c039 elementor-icon-list--layout-inline elementor-widget__width-auto elementor-align-left elementor-mobile-align-right elementor-tablet-align-right elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8b5c039" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://autojura.lt/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1680700790">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="tel:+37046385216">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">+370 46 385216</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.google.com/maps/place/Autojura/@55.6804034,21.187638,17z/data=!4m14!1m7!3m6!1s0x46e4dbfabb2d8639:0xbe3e2de4a3a1519a!2sAutojura!8m2!3d55.6804034!4d21.1898267!16s%2Fg%2F1w15y3kn!3m5!1s0x46e4dbfabb2d8639:0xbe3e2de4a3a1519a!8m2!3d55.6804034!4d21.1898267!16s%2Fg%2F1w15y3kn" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">Žiūrėti žemėjapyje</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4aa5ec1b elementor-section-content-middle animated-fast elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4aa5ec1b" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ccaa7af" data-id="1ccaa7af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b68c859 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="6b68c859" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>								<a href="https://autojura.lt">
+			<img width="1500" height="285" src="https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu.png" class="attachment-full size-full wp-image-987660" alt="Autojura Logo" srcset="https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu.png 1500w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-375x71.png 375w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-750x143.png 750w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-300x57.png 300w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1024x195.png 1024w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-768x146.png 768w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-630x120.png 630w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1260x239.png 1260w" sizes="(max-width: 1500px) 100vw, 1500px">				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-56eec094" data-id="56eec094" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-1c3e3743 elementor-nav-menu__align-right elementor-widget__width-auto elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="1c3e3743" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://autojura.lt/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1680704864">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-none">
+				<ul id="menu-1-1c3e3743" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988360"><a href="https://autojura.lt/#apie" class="elementor-item elementor-item-anchor">Apie Mus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-988358">
+<a href="https://autojura.lt/#paslaugos" class="elementor-item elementor-item-anchor">Mūsų Paslaugos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988346"><a href="https://autojura.lt/variklio-remontas/" class="elementor-sub-item">Variklio Remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988345"><a href="https://autojura.lt/vaziuokles-remontas-ir-patikra/" class="elementor-sub-item">Važiuoklės Patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988344"><a href="https://autojura.lt/pavaru-dezes-remontas/" class="elementor-sub-item">Pavarų dėžės remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988347"><a href="https://autojura.lt/stabdziu-amortizatoriu-remontas-patikra/" class="elementor-sub-item">Stabdžių, amortizatorių patikra Ir REMONTAS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988343"><a href="https://autojura.lt/ratu-suvedimas/" class="elementor-sub-item">Ratų suvedimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988342"><a href="https://autojura.lt/padangu-montavimas-ir-ratu-balansavimas/" class="elementor-sub-item">Padangų montavimas ir ratų balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988341"><a href="https://autojura.lt/kompiuterine-diagnostika/" class="elementor-sub-item">Kompiuterinė diagnostika</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988340"><a href="https://autojura.lt/tepalu-ir-filtru-keitimas/" class="elementor-sub-item">Tepalų ir filtrų Keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988339"><a href="https://autojura.lt/kardaniniu-velenu-remontas-ir-balansavimas/" class="elementor-sub-item">Kardaninių velenų remontas ir balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988338"><a href="https://autojura.lt/purkstuku-patikra-ir-remontas/" class="elementor-sub-item">Purkštukų patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988337"><a href="https://autojura.lt/ismetimo-sistemos-remontas-ir-keitimas/" class="elementor-sub-item">Išmetimo sistemos remontas ir keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988336"><a href="https://autojura.lt/prekyba-autodalimis/" class="elementor-sub-item">Prekyba autodalimis</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988359"><a href="https://autojura.lt/#kontaktai" class="elementor-item elementor-item-anchor">Kontaktai</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-988706">
+<a href="#blogas" class="elementor-item elementor-item-anchor">Straipsniai</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-988707"><a href="https://autojura.lt/variklio-remontas-klaipedoje/" class="elementor-sub-item">Variklio remontas: Kokios dažniausios problemos, ką reikia žinoti?</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-1c3e3743" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988360"><a href="https://autojura.lt/#apie" class="elementor-item elementor-item-anchor" tabindex="-1">Apie Mus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-988358">
+<a href="https://autojura.lt/#paslaugos" class="elementor-item elementor-item-anchor" tabindex="-1">Mūsų Paslaugos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988346"><a href="https://autojura.lt/variklio-remontas/" class="elementor-sub-item" tabindex="-1">Variklio Remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988345"><a href="https://autojura.lt/vaziuokles-remontas-ir-patikra/" class="elementor-sub-item" tabindex="-1">Važiuoklės Patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988344"><a href="https://autojura.lt/pavaru-dezes-remontas/" class="elementor-sub-item" tabindex="-1">Pavarų dėžės remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988347"><a href="https://autojura.lt/stabdziu-amortizatoriu-remontas-patikra/" class="elementor-sub-item" tabindex="-1">Stabdžių, amortizatorių patikra Ir REMONTAS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988343"><a href="https://autojura.lt/ratu-suvedimas/" class="elementor-sub-item" tabindex="-1">Ratų suvedimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988342"><a href="https://autojura.lt/padangu-montavimas-ir-ratu-balansavimas/" class="elementor-sub-item" tabindex="-1">Padangų montavimas ir ratų balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988341"><a href="https://autojura.lt/kompiuterine-diagnostika/" class="elementor-sub-item" tabindex="-1">Kompiuterinė diagnostika</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988340"><a href="https://autojura.lt/tepalu-ir-filtru-keitimas/" class="elementor-sub-item" tabindex="-1">Tepalų ir filtrų Keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988339"><a href="https://autojura.lt/kardaniniu-velenu-remontas-ir-balansavimas/" class="elementor-sub-item" tabindex="-1">Kardaninių velenų remontas ir balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988338"><a href="https://autojura.lt/purkstuku-patikra-ir-remontas/" class="elementor-sub-item" tabindex="-1">Purkštukų patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988337"><a href="https://autojura.lt/ismetimo-sistemos-remontas-ir-keitimas/" class="elementor-sub-item" tabindex="-1">Išmetimo sistemos remontas ir keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988336"><a href="https://autojura.lt/prekyba-autodalimis/" class="elementor-sub-item" tabindex="-1">Prekyba autodalimis</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988359"><a href="https://autojura.lt/#kontaktai" class="elementor-item elementor-item-anchor" tabindex="-1">Kontaktai</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-988706">
+<a href="#blogas" class="elementor-item elementor-item-anchor" tabindex="-1">Straipsniai</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-988707"><a href="https://autojura.lt/variklio-remontas-klaipedoje/" class="elementor-sub-item" tabindex="-1">Variklio remontas: Kokios dažniausios problemos, ką reikia žinoti?</a></li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-42838813 elementor-section-full_width elementor-section-height-min-height elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-items-middle" data-id="42838813" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-320d77b9" data-id="320d77b9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-1e9871e2 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default" data-id="1e9871e2" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-634a5ec0" data-id="634a5ec0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-762a15d4 elementor-icon-list--layout-inline elementor-widget__width-auto elementor-mobile-align-right elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="762a15d4" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="tel:+37046385216">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">+370 46 385216</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.google.com/maps/place/Autojura/@55.6804034,21.187638,17z/data=!4m14!1m7!3m6!1s0x46e4dbfabb2d8639:0xbe3e2de4a3a1519a!2sAutojura!8m2!3d55.6804034!4d21.1898267!16s%2Fg%2F1w15y3kn!3m5!1s0x46e4dbfabb2d8639:0xbe3e2de4a3a1519a!8m2!3d55.6804034!4d21.1898267!16s%2Fg%2F1w15y3kn" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5a2c627b elementor-section-content-middle animated-fast elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a2c627b" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-45de1ab4" data-id="45de1ab4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3c2235a7 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="3c2235a7" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://autojura.lt">
+			<img width="1500" height="285" src="https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu.png" class="attachment-full size-full wp-image-987660" alt="Autojura Logo" srcset="https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu.png 1500w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-375x71.png 375w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-750x143.png 750w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-300x57.png 300w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1024x195.png 1024w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-768x146.png 768w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-630x120.png 630w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1260x239.png 1260w" sizes="(max-width: 1500px) 100vw, 1500px">				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6c9fbea6" data-id="6c9fbea6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-73281be1 elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-widget__width-auto elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="73281be1" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-fade">
+				<ul id="menu-1-73281be1" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988360"><a href="https://autojura.lt/#apie" class="elementor-item elementor-item-anchor">Apie Mus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-988358">
+<a href="https://autojura.lt/#paslaugos" class="elementor-item elementor-item-anchor">Mūsų Paslaugos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988346"><a href="https://autojura.lt/variklio-remontas/" class="elementor-sub-item">Variklio Remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988345"><a href="https://autojura.lt/vaziuokles-remontas-ir-patikra/" class="elementor-sub-item">Važiuoklės Patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988344"><a href="https://autojura.lt/pavaru-dezes-remontas/" class="elementor-sub-item">Pavarų dėžės remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988347"><a href="https://autojura.lt/stabdziu-amortizatoriu-remontas-patikra/" class="elementor-sub-item">Stabdžių, amortizatorių patikra Ir REMONTAS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988343"><a href="https://autojura.lt/ratu-suvedimas/" class="elementor-sub-item">Ratų suvedimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988342"><a href="https://autojura.lt/padangu-montavimas-ir-ratu-balansavimas/" class="elementor-sub-item">Padangų montavimas ir ratų balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988341"><a href="https://autojura.lt/kompiuterine-diagnostika/" class="elementor-sub-item">Kompiuterinė diagnostika</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988340"><a href="https://autojura.lt/tepalu-ir-filtru-keitimas/" class="elementor-sub-item">Tepalų ir filtrų Keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988339"><a href="https://autojura.lt/kardaniniu-velenu-remontas-ir-balansavimas/" class="elementor-sub-item">Kardaninių velenų remontas ir balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988338"><a href="https://autojura.lt/purkstuku-patikra-ir-remontas/" class="elementor-sub-item">Purkštukų patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988337"><a href="https://autojura.lt/ismetimo-sistemos-remontas-ir-keitimas/" class="elementor-sub-item">Išmetimo sistemos remontas ir keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988336"><a href="https://autojura.lt/prekyba-autodalimis/" class="elementor-sub-item">Prekyba autodalimis</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988359"><a href="https://autojura.lt/#kontaktai" class="elementor-item elementor-item-anchor">Kontaktai</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-988706">
+<a href="#blogas" class="elementor-item elementor-item-anchor">Straipsniai</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-988707"><a href="https://autojura.lt/variklio-remontas-klaipedoje/" class="elementor-sub-item">Variklio remontas: Kokios dažniausios problemos, ką reikia žinoti?</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-73281be1" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988360"><a href="https://autojura.lt/#apie" class="elementor-item elementor-item-anchor" tabindex="-1">Apie Mus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-988358">
+<a href="https://autojura.lt/#paslaugos" class="elementor-item elementor-item-anchor" tabindex="-1">Mūsų Paslaugos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988346"><a href="https://autojura.lt/variklio-remontas/" class="elementor-sub-item" tabindex="-1">Variklio Remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988345"><a href="https://autojura.lt/vaziuokles-remontas-ir-patikra/" class="elementor-sub-item" tabindex="-1">Važiuoklės Patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988344"><a href="https://autojura.lt/pavaru-dezes-remontas/" class="elementor-sub-item" tabindex="-1">Pavarų dėžės remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988347"><a href="https://autojura.lt/stabdziu-amortizatoriu-remontas-patikra/" class="elementor-sub-item" tabindex="-1">Stabdžių, amortizatorių patikra Ir REMONTAS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988343"><a href="https://autojura.lt/ratu-suvedimas/" class="elementor-sub-item" tabindex="-1">Ratų suvedimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988342"><a href="https://autojura.lt/padangu-montavimas-ir-ratu-balansavimas/" class="elementor-sub-item" tabindex="-1">Padangų montavimas ir ratų balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988341"><a href="https://autojura.lt/kompiuterine-diagnostika/" class="elementor-sub-item" tabindex="-1">Kompiuterinė diagnostika</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988340"><a href="https://autojura.lt/tepalu-ir-filtru-keitimas/" class="elementor-sub-item" tabindex="-1">Tepalų ir filtrų Keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988339"><a href="https://autojura.lt/kardaniniu-velenu-remontas-ir-balansavimas/" class="elementor-sub-item" tabindex="-1">Kardaninių velenų remontas ir balansavimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988338"><a href="https://autojura.lt/purkstuku-patikra-ir-remontas/" class="elementor-sub-item" tabindex="-1">Purkštukų patikra ir remontas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988337"><a href="https://autojura.lt/ismetimo-sistemos-remontas-ir-keitimas/" class="elementor-sub-item" tabindex="-1">Išmetimo sistemos remontas ir keitimas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988336"><a href="https://autojura.lt/prekyba-autodalimis/" class="elementor-sub-item" tabindex="-1">Prekyba autodalimis</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-988359"><a href="https://autojura.lt/#kontaktai" class="elementor-item elementor-item-anchor" tabindex="-1">Kontaktai</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-988706">
+<a href="#blogas" class="elementor-item elementor-item-anchor" tabindex="-1">Straipsniai</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-988707"><a href="https://autojura.lt/variklio-remontas-klaipedoje/" class="elementor-sub-item" tabindex="-1">Variklio remontas: Kokios dažniausios problemos, ką reikia žinoti?</a></li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+	<div id="page" class="main-container">
+		<div id="main-content">
+			
+<div id="sub-header" class="layout-full elementor-page-title">
+	<div class="meta-header">
+		
+					<div class="limit-wrapper vamtam-box-outer-padding">
+				<div class="meta-header-inside">
+		
+		<!-- Elementor `page-title` location -->
+	<header class="page-header" data-progressive-animation="page-title">
+						<h1 itemprop="headline">Attachment</h1>
+		
+			</header>
+				
+						</div>
+			</div>
+		
+	</div>
+</div>
+
+						<div id="main" role="main" class="vamtam-main layout-full">
+				
+				
+	<div class="page-wrapper">
+		
+		<article id="post-16109" class="full post-16109 attachment type-attachment status-inherit hentry">
+			<div class="page-content clearfix">
+				
+				<div class="entry-attachment">
+											<p class="attachment"><a href="https://autojura.lt/07/" title="06" rel="attachment" class="thumbnail"><img width="800" height="1049" src="https://autojura.lt/wp-content/uploads/2021/07/06.jpg" class="attachment-900x9999 size-900x9999" alt="" decoding="async" srcset="https://autojura.lt/wp-content/uploads/2021/07/06.jpg 800w, https://autojura.lt/wp-content/uploads/2021/07/06-375x492.jpg 375w, https://autojura.lt/wp-content/uploads/2021/07/06-750x983.jpg 750w, https://autojura.lt/wp-content/uploads/2021/07/06-229x300.jpg 229w, https://autojura.lt/wp-content/uploads/2021/07/06-781x1024.jpg 781w, https://autojura.lt/wp-content/uploads/2021/07/06-768x1007.jpg 768w, https://autojura.lt/wp-content/uploads/2021/07/06-630x826.jpg 630w" sizes="(max-width: 800px) 100vw, 800px"></a></p>
+
+						<div id="nav-below" class="navigation">
+							<div class="nav-previous"><a href="https://autojura.lt/05/">05</a></div>
+							<div class="nav-next"><a href="https://autojura.lt/07/">07</a></div>
+						</div>
+<!-- #nav-below -->
+									</div>
+<!-- .entry-attachment -->
+
+				<div class="entry-caption">
+										Original size is <a href="https://autojura.lt/wp-content/uploads/2021/07/06.jpg" title="Link to full-size image">800 &times; 1049</a> pixels				</div>
+
+				
+							</div>
+		</article>
+
+			</div>
+
+
+
+			</div>
+<!-- #main -->
+
+		</div>
+<!-- #main-content -->
+
+					<div class="footer-wrapper">
+				<footer id="main-footer" class="main-footer">
+							<div data-elementor-type="footer" data-elementor-id="987853" class="elementor elementor-987853 elementor-location-footer">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-e496e78 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e496e78" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0b23ab9" data-id="0b23ab9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-79e16bd elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="79e16bd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<h2 class="elementor-heading-title elementor-size-default">Mūsų kontaktai</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-636625e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="636625e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7735732" data-id="7735732" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-25f370a elementor-hidden-mobile elementor-widget elementor-widget-google_maps" data-id="25f370a" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps .elementor-custom-embed{line-height:0}.elementor-widget-google_maps iframe{height:300px}</style>		<div class="elementor-custom-embed">
+			<iframe loading="lazy" src="https://maps.google.com/maps?q=Autoj%C5%ABra%2C%20Svajon%C4%97s%20g.%2040%2C%2094101%20Klaip%C4%97da%2C%20Lithuania&#038;t=m&#038;z=17&#038;output=embed&#038;iwloc=near" title="Autojūra, Svajonės g. 40, 94101 Klaipėda, Lithuania" aria-label="Autojūra, Svajonės g. 40, 94101 Klaipėda, Lithuania"></iframe>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-58e62b8 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-google_maps" data-id="58e62b8" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-custom-embed">
+			<iframe loading="lazy" src="https://maps.google.com/maps?q=Autoj%C5%ABra%2C%20Svajon%C4%97s%20g.%2040%2C%2094101%20Klaip%C4%97da%2C%20Lithuania&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near" title="Autojūra, Svajonės g. 40, 94101 Klaipėda, Lithuania" aria-label="Autojūra, Svajonės g. 40, 94101 Klaipėda, Lithuania"></iframe>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6db2e62 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6db2e62" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6124287" data-id="6124287" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-a14c428 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a14c428" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-d1f228c" data-id="d1f228c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-257a8aa elementor-widget elementor-widget-image" data-id="257a8aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image">
+																					<img width="1024" height="195" src="https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1024x195.png" class="attachment-large size-large wp-image-987660" alt="Autojura Logo" decoding="async" srcset="https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1024x195.png 1024w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-375x71.png 375w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-750x143.png 750w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-300x57.png 300w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-768x146.png 768w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-630x120.png 630w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu-1260x239.png 1260w, https://autojura.lt/wp-content/uploads/2021/02/Autojura-Logo-su-uzrasu.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px">																								</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-155495c" data-id="155495c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2ade1e3 elementor-widget elementor-widget-heading" data-id="2ade1e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Adresas</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a3ff4d3 elementor-widget elementor-widget-text-editor" data-id="a3ff4d3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Svajonės g. 40, 94101 Klaipėda, Lietuva</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3a7e9ef elementor-icon-list--layout-inline elementor-widget__width-inherit elementor-align-center elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3a7e9ef" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.google.com/maps/place/Autojura/@55.6804034,21.187638,17z/data=!4m14!1m7!3m6!1s0x46e4dbfabb2d8639:0xbe3e2de4a3a1519a!2sAutojura!8m2!3d55.6804034!4d21.1898267!16s%2Fg%2F1w15y3kn!3m5!1s0x46e4dbfabb2d8639:0xbe3e2de4a3a1519a!8m2!3d55.6804034!4d21.1898267!16s%2Fg%2F1w15y3kn" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">Žiūrėti žemėjapyje</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-30d2ed2" data-id="30d2ed2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dd896da elementor-widget elementor-widget-heading" data-id="dd896da" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Darbo </h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-85db12d elementor-widget elementor-widget-text-editor" data-id="85db12d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: right;">Pirmadienis<br>Antradienis<br>Trečiadienis<br>Ketvirtadienis<br>Penktadienis<br>Šeštadienis<br>Sekmadienis</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-dbe8130" data-id="dbe8130" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b56b66 elementor-widget elementor-widget-heading" data-id="6b56b66" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">valandos</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3150b90 elementor-widget elementor-widget-text-editor" data-id="3150b90" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>08:00 &#8211; 17.00<br>08:00 &#8211; 17.00<br>08:00 &#8211; 17.00<br>08:00 &#8211; 17.00<br>08:00 &#8211; 17.00<br>Nedirbame<br>Nedirbame</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-6f4bb06" data-id="6f4bb06" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-947e999 elementor-widget elementor-widget-heading" data-id="947e999" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Kontaktai</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8db2fae elementor-widget__width-auto elementor-align-center elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8db2fae" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="tel:+37046385216">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">+370 46 385216</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="mailto:UABAUTOJURA@GMAIL.COM" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">uabautojura@gmail.com</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-59288e8" data-id="59288e8" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b73f82 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b73f82" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a179987" data-id="a179987" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e541669 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="e541669" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>© 2023 Autojūra, UAB</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+						</footer>
+			</div>
+		
+</div>
+<!-- / #page -->
+
+
+
+<div id="scroll-to-top" class="vamtam-scroll-to-top">
+    <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewbox="0 0 320 512"><path fill="currentColor" d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg>
+    <div id="scroll-to-top-text">up</div>
+</div>
+
+
+<link rel="stylesheet" id="e-animations-css" href="https://autojura.lt/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.11.5" type="text/css" media="all">
+<script type="text/javascript" id="vamtam-all-js-extra">
+/* <![CDATA[ */
+var VAMTAM_FRONT = {"ajaxurl":"https:\/\/autojura.lt\/wp-admin\/admin-ajax.php","jspath":"https:\/\/autojura.lt\/wp-content\/themes\/macchina\/vamtam\/assets\/js\/","max_breakpoint":"1025","beaver_responsive":"1025","beaver_small":"769","content_width":"1500","enable_ajax_add_to_cart":"yes","widget_mods_list":{"form":{"label":"Form"},"tabs":{"label":"Tabs"},"icon":{"label":"Icon"},"image":{"label":"Image"},"nav-menu":{"label":"Nav Menu"},"section":{"label":"Section"},"toggle":{"label":"Toggle"},"woocommerce-menu-cart":{"label":"Menu Cart"},"wc-loops-common-mods":{"label":"WooCommerce Loops (common)"},"wc-categories":{"label":"Product Categories"},"woocommerce-products":{"label":"Products"},"wc-archive-products":{"label":"Archive Products"},"woocommerce-product-related":{"label":"Product Related"},"woocommerce-product-upsell":{"label":"Upsells"},"woocommerce-product-data-tabs":{"label":"Product Data Tabs"},"woocommerce-product-meta":{"label":"Product Meta"},"woocommerce-product-images":{"label":"Product Images"},"woocommerce-product-price":{"label":"Product Price"},"woocommerce-product-short-description":{"label":"Product Short Description"},"woocommerce-product-add-to-cart":{"label":"Add To Cart"},"archive-posts":{"label":"Archive Posts"},"posts":{"label":"Posts"},"post-comments":{"label":"Post Comments"},"post-navigation":{"label":"Post Navigation"},"vamtam-popup":{"label":"Popup"}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/themes/macchina/vamtam/assets/js/all.min.js?ver=1679417145" id="vamtam-all-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.11.5" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.11.5" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":770,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":769,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.11.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"theme_builder_v2":true,"landing-pages":true,"kit-elements-defaults":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/autojura.lt\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"viewport_mobile":769,"viewport_tablet":1024,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","vamtam_theme_form":"yes","vamtam_theme_icon":"yes","vamtam_theme_image":"yes","vamtam_theme_nav-menu":"yes","vamtam_theme_section":"yes","vamtam_theme_toggle":"yes","vamtam_theme_woocommerce-menu-cart":"yes","vamtam_theme_wc-loops-common-mods":"yes","vamtam_theme_wc-categories":"yes","vamtam_theme_woocommerce-products":"yes","vamtam_theme_wc-archive-products":"yes","vamtam_theme_woocommerce-product-related":"yes","vamtam_theme_woocommerce-product-upsell":"yes","vamtam_theme_woocommerce-product-data-tabs":"yes","vamtam_theme_woocommerce-product-meta":"yes","vamtam_theme_woocommerce-product-images":"yes","vamtam_theme_woocommerce-product-price":"yes","vamtam_theme_woocommerce-product-short-description":"yes","vamtam_theme_woocommerce-product-add-to-cart":"yes","vamtam_theme_archive-posts":"yes","vamtam_theme_posts":"yes","vamtam_theme_post-comments":"yes","vamtam_theme_post-navigation":"yes","vamtam_theme_vamtam-popup":"yes","vamtam_theme_enable_all_wc_mods":"yes"},"post":{"id":16109,"title":"06%20-%20Autojura","excerpt":"","featuredImage":false}};</script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.5" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/vamtam-elementor-integration-b/assets/js/widgets/nav-menu/vamtam-nav-menu.min.js?ver=2.0.10" id="vamtam-nav-menu-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/vamtam-elementor-integration-b/assets/js/widgets/image/vamtam-image.min.js?ver=2.0.10" id="vamtam-image-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.11.6" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/autojura.lt\/wp-admin\/admin-ajax.php","nonce":"51c2eaaf86","urls":{"assets":"https:\/\/autojura.lt\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/autojura.lt\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/autojura.lt\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.11.6" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.11.6" id="pro-elements-handlers-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/vamtam-elementor-integration-b/assets/js/vamtam-elementor-frontend.min.js?ver=2.0.10" id="vamtam-elementor-frontend-js"></script>
+<script type="text/javascript" src="https://autojura.lt/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.11.6" id="e-sticky-js"></script>
+</body>
+</html>

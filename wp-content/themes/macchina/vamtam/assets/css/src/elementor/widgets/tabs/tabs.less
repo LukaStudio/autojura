@@ -1,0 +1,46 @@
+// Tabs.
+.elementor-widget-tabs {
+	// Base Theme Widget Styles.
+    &.vamtam-has-theme-widget-styles {
+        .elementor-tabs-wrapper {
+            padding: inherit;
+        }
+
+        .elementor-tab-desktop-title {
+            padding: 20px 25px;
+        }
+
+        .elementor-tab-title {
+            padding: 20px;
+            border-style: solid;
+            border-width: 2px !important;
+            border-color: var(--vamtam-accent-color-2);
+            border-radius: 30px;
+            text-align: center;
+            margin: 15px 0px;
+
+            >a {
+                display: block;
+                &:hover {
+                    border-color: var(--vamtam-accent-color-1);
+                }
+            }
+        }
+
+        .elementor-tabs-wrapper {
+            .elementor-tab-title {
+                padding: 15px 40px;
+                margin: 0 10px;
+            }
+        }
+
+        .elementor-tab-title.elementor-active {
+            background: var(--vamtam-accent-color-1);
+            border-color: var(--vamtam-accent-color-1);
+        }
+
+        .elementor-tab-content {
+            padding: 2em;
+        }
+    }
+}

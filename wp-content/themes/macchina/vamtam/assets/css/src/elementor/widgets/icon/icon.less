@@ -1,0 +1,33 @@
+// Icon.
+.elementor-widget-icon {
+	// Base Theme Widget Styles.
+    &.vamtam-has-theme-widget-styles {
+		&.vamtam-popup-toggle {
+			// Clone
+			&.vamtam-popup-toggle-clone {
+				// Use vamtam close Icon.
+				i {
+					&::before {
+						font-family: 'vamtam-theme' !important;
+						content: icon('vamtam-theme-close-sample') !important;
+					}
+				}
+				// Use accent-6 for close icon.
+				i, svg {
+					color: var(--vamtam-accent-color-6) !important;
+					fill: var(--vamtam-accent-color-6) !important;
+					stroke: var(--vamtam-accent-color-6) !important;
+				}
+				&.is-active {
+					&:hover {
+						i, svg {
+							color: var(--vamtam-accent-color-6) !important;
+							fill: var(--vamtam-accent-color-6) !important;
+							stroke: var(--vamtam-accent-color-6) !important;
+						}
+					}
+				}
+			}
+		}
+	}
+}

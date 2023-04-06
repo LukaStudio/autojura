@@ -1,0 +1,1197 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#cb9274">
+
+	
+	<title>Page not found &#8211; Ativo</title>
+<style id="vamtam-theme-options">:root {--vamtam-default-bg-color:#fff;
+--vamtam-default-line-color:rgba( var( --vamtam-accent-color-7-rgb ), 1 );
+--vamtam-small-padding:20px;
+--vamtam-horizontal-padding:50px;
+--vamtam-vertical-padding:30px;
+--vamtam-horizontal-padding-large:60px;
+--vamtam-vertical-padding-large:60px;
+--vamtam-no-border-link:none;
+--vamtam-border-radius:0px;
+--vamtam-border-radius-oval:0px;
+--vamtam-border-radius-small:0px;
+--vamtam-overlay-color:#ffffff;
+--vamtam-overlay-color-hc:#000000;
+--vamtam-box-outer-padding:60px;
+--vamtam-body-link-hover:#C10723;
+--vamtam-body-link-active:#C10723;
+--vamtam-site-max-width:1260px;
+--vamtam-accent-color-1:#C10723;
+--vamtam-accent-color-1-hc:#FFFFFF;
+--vamtam-accent-color-2:#191919;
+--vamtam-accent-color-2-hc:#FFFFFF;
+--vamtam-accent-color-3:#F3F5F2;
+--vamtam-accent-color-3-hc:#000000;
+--vamtam-accent-color-4:#F3EDE3;
+--vamtam-accent-color-4-hc:#000000;
+--vamtam-accent-color-5:#FFFFFF;
+--vamtam-accent-color-5-hc:#000000;
+--vamtam-accent-color-6:#000000;
+--vamtam-accent-color-6-hc:#FFFFFF;
+--vamtam-accent-color-7:#DEDEDE;
+--vamtam-accent-color-7-hc:#000000;
+--vamtam-accent-color-8:#191919;
+--vamtam-accent-color-8-hc:#FFFFFF;
+--vamtam-primary-font-font-family:'Helvetica';
+--vamtam-primary-font-font-size-desktop:16px;
+--vamtam-primary-font-font-size-tablet:16px;
+--vamtam-primary-font-font-size-phone:16px;
+--vamtam-primary-font-line-height-desktop:1.3em;
+--vamtam-primary-font-line-height-tablet:1.3em;
+--vamtam-primary-font-line-height-phone:1.3em;
+--vamtam-h1-font-family:'Bebas Neue';
+--vamtam-h1-font-weight:normal;
+--vamtam-h1-transform:uppercase;
+--vamtam-h1-font-size-desktop:70px;
+--vamtam-h1-font-size-tablet:65px;
+--vamtam-h1-font-size-phone:50px;
+--vamtam-h1-line-height-desktop:0.9em;
+--vamtam-h1-line-height-tablet:0.9em;
+--vamtam-h1-line-height-phone:0.9em;
+--vamtam-h2-font-family:'Bebas Neue';
+--vamtam-h2-font-weight:normal;
+--vamtam-h2-transform:uppercase;
+--vamtam-h2-font-size-desktop:60px;
+--vamtam-h2-font-size-tablet:50px;
+--vamtam-h2-font-size-phone:40px;
+--vamtam-h2-line-height-desktop:0.9em;
+--vamtam-h2-line-height-tablet:0.9em;
+--vamtam-h2-line-height-phone:0.9em;
+--vamtam-h2-letter-spacing-desktop:1px;
+--vamtam-h2-letter-spacing-tablet:1px;
+--vamtam-h2-letter-spacing-phone:1px;
+--vamtam-h3-font-family:'Bebas Neue';
+--vamtam-h3-font-weight:normal;
+--vamtam-h3-transform:uppercase;
+--vamtam-h3-font-size-desktop:36px;
+--vamtam-h3-font-size-tablet:35px;
+--vamtam-h3-font-size-phone:32px;
+--vamtam-h3-line-height-desktop:0.9em;
+--vamtam-h3-line-height-tablet:0.9em;
+--vamtam-h3-line-height-phone:0.9em;
+--vamtam-h4-font-family:'Bebas Neue';
+--vamtam-h4-font-weight:normal;
+--vamtam-h4-transform:uppercase;
+--vamtam-h4-font-size-desktop:30px;
+--vamtam-h4-font-size-tablet:30px;
+--vamtam-h4-font-size-phone:30px;
+--vamtam-h4-line-height-desktop:0.9em;
+--vamtam-h4-line-height-tablet:0.9em;
+--vamtam-h4-line-height-phone:0.9em;
+--vamtam-h5-font-family:'Bebas Neue';
+--vamtam-h5-font-weight:normal;
+--vamtam-h5-transform:uppercase;
+--vamtam-h5-font-size-desktop:26px;
+--vamtam-h5-font-size-tablet:26px;
+--vamtam-h5-font-size-phone:26px;
+--vamtam-h5-line-height-desktop:1em;
+--vamtam-h5-line-height-tablet:1em;
+--vamtam-h5-line-height-phone:1em;
+--vamtam-h6-font-family:'Bebas Neue';
+--vamtam-h6-font-weight:normal;
+--vamtam-h6-transform:uppercase;
+--vamtam-h6-font-size-desktop:20px;
+--vamtam-h6-font-size-tablet:20px;
+--vamtam-h6-font-size-phone:20px;
+--vamtam-h6-line-height-desktop:1em;
+--vamtam-h6-line-height-tablet:1em;
+--vamtam-h6-line-height-phone:1em;
+--vamtam-loading-animation:url('https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/images/loader-ring.gif');
+--vamtam-accent-color-1-rgb:193,7,35;
+--vamtam-accent-color-2-rgb:25,25,25;
+--vamtam-accent-color-3-rgb:243,245,242;
+--vamtam-accent-color-4-rgb:243,237,227;
+--vamtam-accent-color-5-rgb:255,255,255;
+--vamtam-accent-color-6-rgb:0,0,0;
+--vamtam-accent-color-7-rgb:222,222,222;
+--vamtam-accent-color-8-rgb:25,25,25;
+}</style><meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Ativo &raquo; Feed" href="https://ativo.demo.vamtam.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ativo &raquo; Comments Feed" href="https://ativo.demo.vamtam.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ativo.demo.vamtam.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://ativo.demo.vamtam.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.2.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.2.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css'  href='https://ativo.demo.vamtam.com/wp-content/uploads/elementor/css/post-9.css?ver=1618564879' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-43-css'  href='https://ativo.demo.vamtam.com/wp-content/uploads/elementor/css/post-43.css?ver=1618564881' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-200-css'  href='https://ativo.demo.vamtam.com/wp-content/uploads/elementor/css/post-200.css?ver=1618564881' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1522-css'  href='https://ativo.demo.vamtam.com/wp-content/uploads/elementor/css/post-1522.css?ver=1618564881' type='text/css' media='all' />
+<link rel='stylesheet' id='vamtam-front-all-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/all.css?ver=1617058442' type='text/css' media='all' />
+<style id='vamtam-front-all-inline-css' type='text/css'>
+
+			@font-face {
+				font-family: 'icomoon';
+				src: url(https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/fonts/icons/icomoon.woff2) format('woff2'),
+					 url( https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/fonts/icons/icomoon.woff) format('woff'),
+					 url(https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/fonts/icons/icomoon.ttf) format('ttf');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+				@font-face {
+					font-family: 'vamtam-theme';
+					src: url(https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/fonts/theme-icons/theme-icons.woff2) format('woff2'),
+						url(https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/fonts/theme-icons/theme-icons.woff) format('woff');
+					font-weight: normal;
+					font-style: normal;
+					font-display: swap;
+				}
+			
+
+.vamtam-box-outer-padding,
+.limit-wrapper,
+.header-padding {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.vamtam-box-outer-padding .vamtam-box-outer-padding,
+.limit-wrapper .limit-wrapper {
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+@media ( min-width: 1026px ) and ( max-width: 1260px ) {
+	.vamtam-box-outer-padding,
+	.limit-wrapper,
+	.header-padding {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+}
+
+@media ( max-width: 1025px ) {
+	.vamtam-box-outer-padding,
+	.limit-wrapper,
+	.header-padding {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+@media ( max-width: 768px ) {
+	.vamtam-box-outer-padding,
+	.limit-wrapper,
+	.header-padding {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+
+</style>
+<link rel='stylesheet' id='vamtam-wc-styles-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/woocommerce/main.css?ver=1617058442' type='text/css' media='all' />
+<link rel='stylesheet' id='vamtam-theme-layout-max-low-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/responsive/layout-max-low.css?ver=1617058442' type='text/css' media='(min-width: 1025px) and (max-width: 1260px)' />
+<link rel='stylesheet' id='vamtam-theme-layout-max-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/responsive/layout-max.css?ver=1617058442' type='text/css' media='(min-width: 1025px)' />
+<link rel='stylesheet' id='vamtam-theme-layout-below-max-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/responsive/layout-below-max.css?ver=1617058442' type='text/css' media='(max-width: 1024px)' />
+<link rel='stylesheet' id='vamtam-theme-layout-small-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/responsive/layout-small.css?ver=1617058442' type='text/css' media='(max-width: 767px)' />
+<link rel='stylesheet' id='vamtam-theme-wc-small-screen-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/responsive/wc-small-screen.css?ver=1617058442' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Bebas+Neue%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CKanit%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-theme-icons-css'  href='https://ativo.demo.vamtam.com/wp-content/uploads/elementor/custom-icons/theme-icons/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.1.4' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="https://ativo.demo.vamtam.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ativo.demo.vamtam.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ativo.demo.vamtam.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.1" />
+<meta name="generator" content="WooCommerce 5.2.0" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/favicon-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/favicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/favicon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/favicon-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-field-type-radio.elementor-field-group>.elementor-field-subgroup.elementor-subgroup-inline {
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+@media (max-width: 767px){
+  .elementor-widget-form.vamtam-has-theme-widget-styles .elementor-field-type-radio.elementor-field-group>.elementor-field-subgroup.elementor-subgroup-inline {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.flatpickr-calendar .flatpickr-month {
+  padding-bottom: 20px;
+}
+.flatpickr-calendar .flatpickr-month .cur-year {
+  border: none !important;
+  border-radius: 0 !important;
+  font-size: inherit !important;
+}
+.flatpickr-day.today {
+  border-color: var(--vamtam-accent-color-6) !important;
+}
+.flatpickr-day.today:hover, .flatpickr-day.today:focus {
+  background: var(--vamtam-accent-color-6) !important;
+  border-color: var(--vamtam-accent-color-6) !important;
+}
+.flatpickr-day.selected, .flatpickr-day.startRange, .flatpickr-day.endRange, .flatpickr-day.selected.inRange, .flatpickr-day.startRange.inRange, .flatpickr-day.endRange.inRange, .flatpickr-day.selected:focus, .flatpickr-day.startRange:focus, .flatpickr-day.endRange:focus, .flatpickr-day.selected:hover, .flatpickr-day.startRange:hover, .flatpickr-day.endRange:hover, .flatpickr-day.selected.prevMonthDay,
+.flatpickr-day.startRange.prevMonthDay, .flatpickr-day.endRange.prevMonthDay, .flatpickr-day.selected.nextMonthDay, .flatpickr-day.startRange.nextMonthDay, .flatpickr-day.endRange.nextMonthDay {
+  background: var(--vamtam-accent-color-1) !important;
+  border-color: var(--vamtam-accent-color-1) !important;
+}
+
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=checkbox],
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=radio] {
+  display: none;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-field-type-html h3{
+  margin-bottom: 3px;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles .elementor-field-type-checkbox .elementor-field-subgroup.elementor-subgroup-inline {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-auto-rows: 1fr;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+}
+
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=checkbox] + label,
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=radio] + label {
+  display: inline-block;
+  margin-bottom: 15px;
+  border-radius: 40px;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  font-weight: 600;
+  border: solid 2px var(--vamtam-accent-color-2);
+  transition: all 0.3s ease;
+}
+
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=checkbox] + label:hover,
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=radio] + label:hover,
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=checkbox]:checked + label,
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-type-step .elementor-subgroup-inline input[type=radio]:checked + label {
+  background: var(--vamtam-accent-color-1);
+  border-color: var(--vamtam-accent-color-1);
+  color: var(--vamtam-accent-color-5);
+}
+
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-message {
+  text-align: center;
+  background: var(--vamtam-accent-color-4);
+  padding: 20px;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-message:before {
+  color: var(--vamtam-accent-color-1);
+}
+
+.elementor-widget-form.vamtam-has-theme-widget-styles form.elementor-form .elementor-field-group .elementor-field-label {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Product detail */
+
+body {
+  --vamtam-input-bg: var(--vamtam-accent-color-5); /* This is hardcoded? */
+}
+p:last-child {
+    margin: 0 0 1em 0;
+	/* This "margin-bottom: 0;" is only for UnitTest and only for last "p" in COMMENT */
+}
+
+.elementor-widget-woocommerce-product-data-tabs .woocommerce-Tabs-panel--reviews .woocommerce-noreviews {
+  margin-bottom: var(--vamtam-content-space-l);
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-related .related.products {
+  border: none;
+}
+.woocommerce .elementor-wc-products ul.products li.product:not(.product-category) .vamtam-product-content {
+    padding: 0px;
+}
+
+.woocommerce.single-product .woocommerce-error, .woocommerce.single-product .woocommerce-info, .woocommerce.single-product .woocommerce-message {
+  color: inherit; /* Just body font color */
+}
+.single-product .main-container {
+  border: 0;
+}
+
+#commentform #submit:focus, .button:focus, .vamtam-cart-collaterals input[name=apply_coupon]:focus,
+.woocommerce #content input.button:focus, .woocommerce #place_order:focus, .woocommerce #respond input#submit.alt:focus,
+.woocommerce #respond input#submit:focus, .woocommerce .button.wc-backward:focus, .woocommerce .cross-sells .add_to_cart_button:focus, .woocommerce .woocommerce-Button.button:focus, .woocommerce .woocommerce-button.button:focus, .woocommerce .woocommerce-form-login .woocommerce-form-login__submit:focus, .woocommerce .woocommerce-message .vamtam-close-notice-btn:focus, .woocommerce a.added_to_cart:focus, .woocommerce a.button.alt:focus,
+.woocommerce a.button:focus, .woocommerce button.button.alt.disabled:focus, .woocommerce button.button.alt:focus, .woocommerce button.button:focus,
+.woocommerce input.button.alt:focus, .woocommerce input.button:focus, .woocommerce-page #content input.button:focus, .woocommerce-page #respond input#submit:focus, .woocommerce-page a.button:focus, .woocommerce-page button.button:focus, .woocommerce-page input.button:focus, .woocommerce.widget_shopping_cart .widget_shopping_cart_content .buttons a.button:focus,
+.woocommerce.woocommerce-cart .cart-collaterals .wc-proceed-to-checkout .checkout-button:focus, .woocommerce.woocommerce-cart .vamtam-cart-collaterals .coupon button[name=apply_coupon]:focus, .woocommerce.woocommerce-checkout .checkout_coupon .button[name=apply_coupon]:focus, a.comment-reply-link:focus, button:focus, input[type=button]:focus, input[type=submit]:focus {
+  opacity: 1;
+}
+
+.woocommerce div.product .elementor-widget-woocommerce-product-images div.images {
+  margin: 0px;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.cart .reset_variations {
+  padding-top: 0;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.cart {
+  margin: 0;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.cart .variations td.label {
+  padding-top: 0;
+  line-height: initial;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.variations_form table.variations tr {
+  border: 0;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.variations_form .woocommerce-variation-price:not(:first-child) {
+  margin-top: 10px;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.variations_form .single_variation {
+  margin-bottom: 20px;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.cart .vamtam-count-wrap {
+  max-width: 100px; /* TEMP FIX */
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.cart #quantity input.qty,
+.woocommerce div.product .elementor-widget-woocommerce-product-add-to-cart form.cart .quantity input.qty {
+  max-width: 100%;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-images div.images .flex-control-thumbs li img {
+  opacity: 1;
+  border-bottom: solid 2px transparent;
+  transition: all 0.3s ease;
+}
+.woocommerce div.product .elementor-widget-woocommerce-product-images div.images .flex-control-thumbs li img.flex-active,
+.woocommerce div.product .elementor-widget-woocommerce-product-images div.images .flex-control-thumbs li img:hover {
+  border-color: var(--vamtam-accent-color-1);
+}
+.elementor-widget-woocommerce-product-meta.elementor-element .detail-label {
+    margin-right: inherit;
+}
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta .posted_in span,
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta .sku_wrapper span,
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta .tagged_as span {
+  font-weight: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+}
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta .posted_in,
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta .sku_wrapper,
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta .tagged_as {
+  font-weight: inherit;
+}
+.elementor-widget-woocommerce-product-meta.elementor-element span.detail-content a,
+.elementor-widget-woocommerce-product-meta.elementor-element span.detail-label {
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+  line-height: inherit;
+  text-transform: inherit;
+}
+.elementor-widget-woocommerce-product-meta.elementor-element .detail-content a {
+  border: none;
+  color: inherit;
+}
+.woocommerce .elementor-widget-woocommerce-product-meta .product_meta  a {
+  margin: 0 0 .2em 0;
+}
+
+/* TABS FIX OLD CODE */
+.elementor-widget-tabs .elementor-tabs-wrapper {
+  padding: inherit; /*  Remove our styles, need only EL styles */
+}
+.elementor-widget-tabs .elementor-tab-desktop-title {
+  padding: 20px 25px; /*  Remove our styles, need only EL styles */
+}
+
+/* TABS VAMTAM STYLE ON */
+.elementor-widget-tabs.vamtam-has-theme-widget-styles .elementor-tab-title {
+  padding: 20px;
+  border-style: solid;
+  border-width: 2px !important;
+  border-color: var(--vamtam-accent-color-2);
+  border-radius: 30px;
+  text-align: center;
+  margin: 15px 0px;
+}
+.elementor-widget-tabs.vamtam-has-theme-widget-styles .elementor-tabs-wrapper .elementor-tab-title {
+  padding: 0 10px;
+  margin: 0 10px;
+}
+.elementor-widget-tabs.vamtam-has-theme-widget-styles .elementor-tab-title>a {
+  display: block;
+  padding: 15px 20px;
+}
+.elementor-widget-tabs.vamtam-has-theme-widget-styles .elementor-tab-title>a:hover {
+  border-color: var(--vamtam-accent-color-1);
+}
+.elementor-widget-tabs.vamtam-has-theme-widget-styles .elementor-tab-title.elementor-active {
+  background: var(--vamtam-accent-color-1);
+  border-color: var(--vamtam-accent-color-1);
+}
+
+@media (min-width: 1025px){
+  /* Product Detail*/
+  .elementor-widget-woocommerce-product-short-description .woocommerce-product-details__short-description .limit-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 1026px) and (max-width: 1260px) {
+  /* Product Detail*/
+  .elementor-widget-woocommerce-product-short-description .woocommerce-product-details__short-description .limit-wrapper,
+  .elementor-widget-woocommerce-product-data-tabs .woocommerce-tabs .limit-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 1025px) {
+  /* Product Detail*/
+  .elementor-widget-woocommerce-product-short-description .woocommerce-product-details__short-description .limit-wrapper,
+  .elementor-widget-woocommerce-product-data-tabs .woocommerce-tabs .limit-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media (max-width: 768px){
+  .elementor-widget-form.vamtam-has-theme-widget-styles .elementor-field-type-checkbox .elementor-field-subgroup.elementor-subgroup-inline {
+    grid-template-columns: 1fr;
+    align-items: center;
+  }
+
+  /* Product Detail*/
+  .elementor-widget-woocommerce-product-short-description .woocommerce-product-details__short-description .limit-wrapper,
+  .elementor-widget-woocommerce-product-data-tabs .woocommerce-tabs .limit-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body.responsive-layout .woocommerce div.product .elementor-widget-woocommerce-product-price p.price,
+  body.responsive-layout.woocommerce div.product .elementor-widget-woocommerce-product-price p.price {
+    margin: 0 0 1em 0;
+  }
+  .elementor-widget-tabs .elementor-tab-mobile-title {
+    letter-spacing: inherit; /* Remove all our styles here */
+  }
+}
+		</style>
+		</head>
+<body class="error404 wp-custom-logo wp-embed-responsive theme-ativo woocommerce-no-js full header-layout-logo-menu no-page-header no-middle-header responsive-layout elementor-active elementor-pro-active layout-full elementor-default elementor-kit-9">
+	<div id="top"></div>
+	
+			<div data-elementor-type="header" data-elementor-id="43" class="elementor elementor-43 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-4f369ef1 elementor-section-full_width elementor-section-height-min-height elementor-hidden-tablet elementor-hidden-phone vamtam-sticky-header vamtam-sticky-header--transparent-header elementor-section-height-default elementor-section-items-middle elementor-invisible" data-id="4f369ef1" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;,&quot;animation_delay&quot;:200,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4086f0da" data-id="4086f0da" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-5a2c700 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="5a2c700" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://ativo.demo.vamtam.com">
+							<img width="66" height="26" src="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/logo-footer.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-26d8cc30" data-id="26d8cc30" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-be9fb4b toggle-icon--bag-solid elementor-menu-cart--empty-indicator-hide elementor-widget__width-auto elementor-menu-cart--items-indicator-bubble vamtam-has-hide-cart-checkout elementor-menu-cart--show-divider-yes elementor-menu-cart--show-remove-button-yes elementor-menu-cart--buttons-inline elementor-widget elementor-widget-woocommerce-menu-cart" data-id="be9fb4b" data-element_type="widget" data-widget_type="woocommerce-menu-cart.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-menu-cart__wrapper">
+						<div class="elementor-menu-cart__container elementor-lightbox" aria-expanded="false">
+				<div class="elementor-menu-cart__main" aria-expanded="false">
+					
+					<div class="vamtam-elementor-menu-cart__header">
+						<span class="font-h4 label">Cart</span>
+						<span class="item-count">(0)</span>
+						<div class="elementor-menu-cart__close-button">
+							<i class="vamtam-close vamtam-close-cart vamtamtheme- vamtam-theme-close"></i>
+						</div>
+					</div><div class="widget_shopping_cart_content"></div>
+				</div>
+			</div>
+						<div class="elementor-menu-cart__toggle elementor-button-wrapper">
+			<a id="elementor-menu-cart__toggle_button" href="#" class="elementor-button elementor-size-sm">
+				<span class="elementor-button-text"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.00</bdi></span></span>
+				<span class="elementor-button-icon" data-counter="0">
+					<i class="eicon" aria-hidden="true"></i>
+					<span class="elementor-screen-only">Cart</span>
+				</span>
+			</a>
+		</div>
+
+								</div> <!-- close elementor-menu-cart__wrapper -->
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-6b6d0b4 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="6b6d0b4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjQ1IiwidG9nZ2xlIjpmYWxzZSwiYWxpZ25fd2l0aF9wYXJlbnQiOiIifQ%3D%3D" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="vamtamtheme- vamtam-theme-side-menu"></i>			</span>
+						<span class="elementor-button-text"></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-3f8f857 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="3f8f857" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/membership" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Join now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0c518fd elementor-section-full_width elementor-section-content-top elementor-hidden-desktop vamtam-sticky-header vamtam-sticky-header--transparent-header elementor-section-height-default elementor-section-height-default" data-id="0c518fd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f809c07" data-id="f809c07" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-f3422ec elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="f3422ec" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://ativo.demo.vamtam.com">
+							<img width="66" height="26" src="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/logo-footer.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-398f8e6" data-id="398f8e6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-dc3a9a2 elementor-nav-menu__align-justify elementor-nav-menu--stretch elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="dc3a9a2" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-dc3a9a2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-180"><a href="https://ativo.demo.vamtam.com/" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-689"><a href="https://ativo.demo.vamtam.com/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://ativo.demo.vamtam.com/home-2/" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3347"><a href="#" class="elementor-item elementor-item-anchor">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3351"><a href="https://ativo.demo.vamtam.com/pilates-yoga/" class="elementor-sub-item">Pilates &#038; Yoga</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3348"><a href="https://ativo.demo.vamtam.com/zumba/" class="elementor-sub-item">Zumba</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3350"><a href="https://ativo.demo.vamtam.com/hiit-strength/" class="elementor-sub-item">Hiit &#038; Strength</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349"><a href="https://ativo.demo.vamtam.com/cardio-boxing/" class="elementor-sub-item">Cardio &#038; Boxing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3352"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-sub-item">Personal Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3353"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://ativo.demo.vamtam.com/trainers/" class="elementor-sub-item">Trainers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://ativo.demo.vamtam.com/reviews/" class="elementor-sub-item">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://ativo.demo.vamtam.com/contact/" class="elementor-sub-item">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5784"><a href="https://ativo.demo.vamtam.com/schedules/" class="elementor-sub-item">Schedules</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://ativo.demo.vamtam.com/blog/" class="elementor-sub-item">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-dc3a9a2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-180"><a href="https://ativo.demo.vamtam.com/" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-689"><a href="https://ativo.demo.vamtam.com/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://ativo.demo.vamtam.com/home-2/" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3347"><a href="#" class="elementor-item elementor-item-anchor">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3351"><a href="https://ativo.demo.vamtam.com/pilates-yoga/" class="elementor-sub-item">Pilates &#038; Yoga</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3348"><a href="https://ativo.demo.vamtam.com/zumba/" class="elementor-sub-item">Zumba</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3350"><a href="https://ativo.demo.vamtam.com/hiit-strength/" class="elementor-sub-item">Hiit &#038; Strength</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349"><a href="https://ativo.demo.vamtam.com/cardio-boxing/" class="elementor-sub-item">Cardio &#038; Boxing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3352"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-sub-item">Personal Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3353"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://ativo.demo.vamtam.com/trainers/" class="elementor-sub-item">Trainers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://ativo.demo.vamtam.com/reviews/" class="elementor-sub-item">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://ativo.demo.vamtam.com/contact/" class="elementor-sub-item">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5784"><a href="https://ativo.demo.vamtam.com/schedules/" class="elementor-sub-item">Schedules</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://ativo.demo.vamtam.com/blog/" class="elementor-sub-item">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1419435 elementor-hidden-phone" data-id="1419435" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-40f3d9d elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="40f3d9d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/membership" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Join now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		
+	<div id="page" class="main-container">
+		<div id="main-content">
+			
+						<div id="main" role="main" class="vamtam-main layout-full" >
+				
+				<link rel='stylesheet' id='vamtam-not-found-css'  href='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/css/dist/not-found.css?ver=1617058442' type='text/css' media='all' />
+			<div class="clearfix">
+			<div id="header-404">
+				<div class="line-1">404</div>
+				<div class="line-2">Holy guacamole!</div>
+				<div class="line-3">Looks like this page is on vacation. Or just playing hard to get. At any rate... it is not here.</div>
+				<div class="line-4"><a href="https://ativo.demo.vamtam.com/">&larr; Go to the home page or just search...</a></div>
+			</div>
+			<div class="page-404">
+				<form role="search" method="get" class="searchform clearfix" action="https://ativo.demo.vamtam.com/">
+	<label for="search-text-widget" class="visuallyhidden">Search for:</label>
+	<input id="search-text-widget" type="text" value="" name="s" placeholder="Search" required="required" />
+	<input type="submit" value="Search" />
+	</form>
+
+
+			</div>
+		</div>
+	
+
+
+			</div><!-- #main -->
+
+		</div><!-- #main-content -->
+
+					<div class="footer-wrapper" style="">
+				<footer id="main-footer" class="main-footer">
+							<div data-elementor-type="footer" data-elementor-id="200" class="elementor elementor-200 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-17a80bdd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="17a80bdd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1b9e80e8" data-id="1b9e80e8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-bac870e elementor-invisible elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="bac870e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://ativo.demo.vamtam.com">
+							<img width="66" height="26" src="https://ativo.demo.vamtam.com/wp-content/uploads/2021/02/logo-footer.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-5313026d elementor-widget elementor-widget-text-editor" data-id="5313026d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>We believe that exercise isn’t just about how it makes you look, but also how it makes you feel. <strong><span style="text-decoration: underline;"><a href="/contact">Get fit today.</a></span></strong></p></div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-7741da28 elementor-shape-circle e-grid-align-left e-grid-align-left elementor-grid-0 elementor-invisible elementor-widget elementor-widget-social-icons" data-id="7741da28" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;pulse&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-4a07e89" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-466ddbe" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d1cde1b" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-77119c6f" data-id="77119c6f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-598f1275 elementor-widget elementor-widget-heading" data-id="598f1275" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Contacts</h5>		</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-725d05c9 elementor-widget elementor-widget-text-editor" data-id="725d05c9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">450 NW Couch Street, Portland, Oregon 97209
+<a href="tel:+ (123) 1800-567-8990"><span style="text-decoration: underline;">+ (123) 1800-567-8990</span></a></div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-6108d6a3 elementor-widget elementor-widget-text-editor" data-id="6108d6a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Every day: 9:00 &#8211; 22:00<br />Sat &#8211; Sun: 8:00 &#8211; 21:00</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5ee54b6" data-id="5ee54b6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-394923d8 elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="394923d8" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;pulse&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100" viewBox="0 0 218 100" width="218"><path d="m106.978873 3.40609011c.618656.79546067 3.257543 4.52646537 2.506299 6.22469796 1.571981 2.65773073 1.868703 4.74739073-.321966 9.21696823 1.48361 1.6982326 2.803037 2.7461333 3.396465 4.8483991 1.079577 4.4569717-.820672 8.3709873-5.738565 7.5187357-.125366-.0401263-.251536-.0790289-.377804-.1173268l-.378395-.1136983c-1.509106-.4524871-2.930667-.9070096-3.044299-2.4330086-.669176-1.4015106-.107328-2.8030373.164134-4.2045317-1.13.6439321-2.3421 1.2120998-3.5541995 1.0479653-.2056618.7365724-.4113237 1.4260221-.8613029 1.8212979.0551818.0351197.1250375.0808783.2173062.1415765l.1199333.1010083c.4933119.5358966.856859 1.049683 1.1242159 1.5523977l.063723-.049798c.001646.0016463.076543.0925457.199249.2710873l.088608.1319941c.919615 1.4011132 3.590002 6.4272144 1.202023 14.6471574l-.022843-.0060122-.060251.3198633c-.222938 1.0840022-.608264 2.3802893-.978624 3.6316791-.530286 1.7803321-1.0353274 3.4721002-.9595792 4.1161292.1136303.965898.0820672 1.742353-.0315631 2.3547058-.1578315.8711927-.4924196 1.4393765-.8143856 1.742353-.1704535.1578316-.2209577 1.2499819-.2588398 2.0138634-.006303.1893946-.0189411.3724701-.025244.4671594l-.0025138.0362468.021972.0025404c0 .0125276-.597024 5.0002233 1.1100147 6.5130485l2.2485038 1.1194629c.056823-.0189411.119949-.0378821.176772-.0568232 2.512603-.7449404 6.716973-.2840839 10.492259.9090748.548854.1738933 1.089781.3640291 1.616387.5689719.143785-.0229636.291025-.0376728.440789-.0458943l-.01458.2163051c2.953798 1.2131406 5.386128 2.8944344 6.113866 4.7782571l.018941.0442012c.505042.321966.972201.643932 1.44568.9658981 1.515124 1.0353271 3.01134 2.0579838 4.892519 2.632519 2.525208.6754952 4.974619 1.4204355 7.373607 2.1589922 5.51764 1.6919296 10.80789 3.3080626 16.760916 3.8761334 8.409354-1.4224987 15.25424.0948389 21.758919 1.9630829l.998201.2898415c.663898.1946078 1.324878.3915103 1.98426.5879142 2.164552.6461728 4.313419 1.2867428 6.488596 1.8198038l5.583378-.4253295.01064-.0115893c3.232702-3.9442333 3.951549-3.6147058 7.500314-1.4298459l.549824.3369571c.494931.0922965 1.003199.3027967 1.502162.5812773.95326.5366047 1.887644 1.3383521 2.575793 1.9886517.381336.3602622.758146.6775291 1.130237.9578894 1.314818-.1803101 7.147485-.7492286 8.431941 2.8977791.876818.2823353 1.707102.6957406 2.495629 1.4030667.214639 0 .404033.0063191.574487.0252602.25884.025244.467159.0757482.643932.1262523.366151.1073274 1.186856.4355964 1.887643.7638815.549227.2588398 1.041647.5366046 1.243663.7575623.271462.2967059.422974.624991.46716.959579.037833.309344-.018942.6186719-.151513.9153939-.119949.2651428-.309344.5176636-.555546.7449404-.542923.4987224-1.388872.8901337-2.40529 1.0164022-.997462.1262685-1.855968-.0883702-2.689407-.290403-.732303-.1767726-1.439361-.3535291-2.133781-.2272606-6.786466 1.2120998-14.703093.9153939-16.691422.8459487-.183075-.0063029-.321966-.012622-.37247-.012622l-.000996-.019121-.018268-.0000787c-6.155204-.3914112-12.493517-.8017474-18.831182-1.2120997-6.337666-.4103524-12.676624-.8206886-18.831182-1.2120998-4.236046-.0189411-8.693018.34721-13.131081.7070582-4.652685.3787892-9.292765.7575623-13.749737.6944362-4.62117-.0694453-8.78142-.6691761-12.783935-1.742353-3.996212-1.0732093-7.828225-2.6136104-11.786458-4.5642829-1.754959-.8648898-3.5794116-1.8055438-5.6501629-3.0113407-2.0642867-1.2120998-4.3496604-2.6766395-7.0010882-4.602262l-.0016162.019135c-.9365312-.6325702-1.4962465-1.5003545-1.7851701-2.4815871-.0323204-.0172017-.063122-.0346944-.0936916-.052389-.6020866 2.5619799-2.2690601 6.1057383-3.7012577 9.1498591-.7259993 1.5403687-1.3888724 2.9481498-1.8244526 4.0529384-.4229743 1.0669063-1.5971919 1.0479653-2.6766395 1.0227051-.1514665-.0032959-.301214-.0065873-.4420765-.0054005l-.4545541 1.1171223c-.4103523 1.003764-.8333105 1.6793238-1.4583015 2.1274775-.6249909.4545374-1.4014944.6502349-2.5062991.6944362h-.0505041c-1.1679147-.0568233-2.3294942-.0694453-3.4911706-.0820673-1.1868493-.0126381-2.3737697-.0252601-3.5163758-.0820672-1.0416462.037866-2.0705896.1136303-3.0365523.1893946-1.8433613.1451934-3.4531914.2651428-4.8925195.0441851h-.0063142c-1.0416463-.1704535-1.7866351-.2272768-2.3042825-.2714619-.7070582-.0568232-1.1047727-.0820672-1.3951757-.3282689-.4924195-.1010083-.8206885-.34721-1.003764-.637613-.1136336-.1767564-.1767727-.3724701-.1830756-.5681677-.0126262-.2020166.0315647-.3977142.1262604-.5744868.1704536-.3156469.4861005-.5555457.9216969-.5997308h.0063142c.9658984-.0883863 3.0491585-.309344 4.7599969-.669176.5173859-.1087533.993481-.2278249 1.3770991-.3554216-.0373048-.0186887-.0727085-.0372865-.1081664-.0558843-.1515125-.0820672-.309344-.1641345-.5492266-.2272606l-.303025-.1830756c-.0252504-.031563-.1515124-.0947054-.2714618-.1641344-.2335797-.1262685-.4608565-.2525208-.6312939-.4671594-.334588-.4229744-.3661511-.8711927.2525208-1.3572932l.4355963-.1388905c.0063126 0 3.2511748.1893946 4.5390712-.2146386 1.5151247-.4797976 2.4873903-.9532599 3.2637807-1.3320492.7828225-.3850921 1.3888724-.6818142 2.209577-.8270076.6691841-.1199494 1.3383763-.1325714 2.1969793-.1451934.4077941-.0049178.8614679-.0136533 1.3997443-.0381212.1877374-.6236369.3962852-1.2880775.6139252-1.9810915.7133772-2.2726063 1.5214438-4.8483991 1.9506725-7.2157107.3977142-2.1717596.6754951-4.30554.934335-6.3129389.3577768-2.7460716.6847802-5.2630286 1.2427598-7.3544668-1.5196216-2.296173-2.7381803-5.4157789-3.043466-6.2242026l-.0749778-.1662349c-.5288385-1.1858799-.6553951-2.2904378-.7238904-3.3785586l-.0336719-.5922802-.0189249-.328269-1.7677264-3.535291c-.9216968-1.1805367-1.6856267-2.5252078-1.9317638-4.2486521-.2462017-1.7171413.037866-3.7878926 1.2247218-6.4267146.7196802-1.9317638 1.4835616-3.3773948 2.3800791-4.7032703.8901338-1.306789 1.9065521-2.4810874 3.1438636-3.9015067 1.3019783-1.4879798 2.7866101-3.1647233 4.3881162-4.665437l-.0212744.0499398.086381-.1972261c.3522095-.8656954.5243017-1.73857.5916334-2.6364217.0820672-1.0416462.0189411-2.1337804-.0694452-3.3143656l-.006303-.0820673c-.1704535-2.2410916-.3724701-4.7789053-.309344-7.3736069-.3282689-1.4330575-1.2499819-2.4494112-2.0138633-3.2954568-1.0732093-1.1868558-1.9065522-2.1022659-1.1300326-3.47210022l.012622-.025244c.3535291-.56186481.7638815-.93431883 1.1110915-1.25628485.2209577-.20201663.4166552-.37877309.4734785-.50504157.0505041-.10732739.0757481-.17675647.1010083-.2335797.2462017-.61867189.34721-.88383083 1.268923-.95325991.0946892-.71337728.624991-.9153939 1.3825533-1.19947777.2714619-.10100831.5934279-.22726062.9153939-.41035233l.0189411-.012622-.0883863.00630292c-.0631262.01894108-.1199494.03156307-.1262685.00631908-.012622-.20201663-.0189249-.42927726.0252602-.66917604.1451934-.78282252.669176-1.42043548 2.5820957-1.0732093.2335797.04418508.4924196.06944524.7449404.10100831.5429237.06312616 1.0605873.1199494 1.5971919.3409071.3598482.00630292.8522516-.42297433 1.3636122-.87119266.6754952-.58710881 1.3699314-1.19947777 2.2600005-1.31310809 1.1174105-.52398265 2.21588-.67549512 3.2574777-.63761296.5333186.0191633 1.0440232.08517573 1.532118.1743379l.0359628-.01850581c1.8044818-.97613323 4.6925088-1.37112448 7.9260218 2.76112641zm-105.47993931 55.56446179.06835801-.0495552c.14394838-.0915876.31701303-.1374132.49549986-.1224014l.10755321.0164283 23.13632773 5.14331c.2640123.0586912.4777727.2458669.5730532.4936464l.0333817.1097038 5.6618926 24.8673162 4.0504545.0717141 3.20323.0740563 2.9190285.085908 2.6364692.0980258 1.6014798.0722139 1.4771143.0777965 1.0265136.0620585.6457317.0431579 1.199071.0906455.8186996.0718116.7498389.0751291.6811833.0784799.6127331.0818639.3705622.0564723.4991055.0875779.4312026.0910504.249846.062646.219819.0642141.1898529.0657919.0813869.0325144c.1197604.0502975.1760953.078108.2716705.1562269.3516371.2874121.4231218.8165251.0972795 1.1850828l-.0837462.087747-.1159013.1101057-.1483777.1327435-.2841624.2421719-.7940455.6428015-1.3165122 1.0254321-1.4727512 1.1236999-.8584519.649086c-.3527324.266067-.8543685.1958108-1.1204355-.1569216s-.1958108-.8543684.1569216-1.1204354l1.9951185-1.5156185 1.115336-.8612329.6727352-.5300169-.2521877-.0393928-.3606406-.0508141-.6020159-.0742093-.6750881-.0717635-.7479428-.0692826-.8205796-.0667663-1.2067204-.0850467-.9892187-.0607579-1.0611297-.0581242-1.9277605-.090925-2.5747684-.0990935-2.858348-.0879002-3.6908282-.0880266-2.8696382-.053065-1.7933795-.0275335c-.3321977-.0047361-.6226604-.2134886-.737168-.5175851l-.0314683-.1047477-5.6881174-24.987966-22.43119125-4.987 9.31019125 36.711 4.7297035-.1363027 6.1551255-.1548104 4.4697379-.0904267 4.0666308-.0606613 2.7858622-.0259305 1.7316411-.0079577 2.4092833.0020741 2.1837363.0189066 1.3306685.0219669 1.5226918.038003 1.1057468.0388461.7637979.0340643.9311189.0519975.6329291.0439355.576905.0481707.682123.0708204.3037649.0382376.409058.0608929.2404155.0427157c.4339563.0830285.7184395.5021275.635411.9360838s-.5021275.7184395-.9360838.635411l-.2281418-.0404016-.2529103-.0386442-.5800832-.072013-.5-.0493906-.3642357-.0307259-.8025888-.0561657-.9013404-.0491121-1.0000058-.042052-1.3886245-.0426271-1.2216884-.0261434-1.3200741-.0190625-1.7883164-.0138609-2.3484862-.0019978-3.0187467.0178754-3.8171406.0471168-4.7615695.0870945-2.8587622.0640074-6.1741017.1615499-3.9962186.1184259c-.3376018.0104021-.640869-.1916646-.76539868-.4973745l-.03469192-.1055927-9.72759477-38.3583298c-.10860864-.4282709.15052883-.8634977.57879974-.9721064.25214218-.0639427.50669543-.0004172.69558702.1500454zm84.31283111-28.5945308c-2.6073074 1.7612617-4.9872249 4.299237-6.1867189 7.4557064l-.0505041.1010084c-2.6029841 4.3531947-.0115444 6.6476654 1.8206037 7.8711564-.041417-1.8825462-.1586088-3.9180793-.3874008-6.1661199l.0126705.0121048c.0946892.4166553.4419154.8333105.63131 1.2626039.290403.650235.5997308 1.3320492.7196802 2.2347888.6060499 4.3874779.2335797 9.0844453-.1199494 13.4972965-.2588398 3.2700836-.5050415 6.3824326-.3282689 9.0466279l-.0568071.309344c-1.003764 2.2347888-1.4330574 5.5113368-1.912855 9.2106653-.2651428 2.0327722-.5429237 4.1919259-.946957 6.3824326-.4482183 2.462017-1.268923 5.0693244-1.9886517 7.367304-.5176636 1.6602535-.9848391 3.1501665-1.2184188 4.254955l-.0694453.3282851-.3030249.1325714-3.4784031 1.5340658-.4166601.0378822c-.1446813-.0364378-.2842684-.0723302-.4190089-.1075844-2.6602978-.086645-5.3816586.9910408-6.5178873 1.5043995.3924725-.026817.6879436-.0489082.8129851-.0789233-.1703221.206953-.5260631.3538682-.9881589.4723429.3519443-.000992.7658952.0105885 1.1782949.0277787l.3516232.0159459c.9287426.0453198 1.7545073.1095538 1.7183059.1095538-.2840839.97852-1.8813405.5176635-3.3080627.5808058-.2880557.0104716-1.5972808.4337402-2.2188571.7615108.9392443.0058189 1.9705467-.0724103 3.096684-.1608911.9532599-.0757481 1.9697429-.1515124 3.1186519-.1893946h.0505041c1.1679147.0568232 2.3294942.0694452 3.4911625.0820834 1.1868558.012622 2.3737762.025244 3.5163823.0820672.8206885-.0378821 1.3699313-.1641344 1.7677263-.4545374.4040332-.2967059.7070582-.7954445 1.0227051-1.5656289l6.2120921-15.2522554 3.4594944-12.3988109.0252601-.0694453c1.2100119-2.9480822 2.0126921-6.993308 2.7671691-11.1966039-.0706477-.0004549-.1439581-.0016812-.2181556-.003004l.2313976-.0708125c.1070306-.5969771.2131322-1.1970293.3193321-1.7974696.8838308-4.9935278 1.7740292-10.0187319 3.2826894-13.6867074-.0557563 1.60243-.242555 3.3751023-.4843891 5.1233466 2.1968358-1.7493069 3.4317981-4.1824888 3.9750263-6.7396089.4355963-2.039075.4355963-4.1539467.1452096-6.0668017-.290403-1.9002493-.8711927-3.585876-1.609814-4.7789054-.5681677-.9216968-1.1994777-1.5277467-1.8244525-1.6602535-2.0896601-.4482183-5.5302456.5302856-8.6741092 2.645125zm-22.4647154 66.875666-.1867666.0310515c-.9613273.1542757-2.0422872.2992408-2.8847451.5780199-.344544.1148448-.6173445.2492591-.7622573.4070709.3286198.0408973.7004493.093118 1.1223399.1626322.1910049.0287424.3870481.0508123.5881299.0671095.0498642-.0805692.1135106-.1574716.1882038-.2321652.1956976-.1956976.4734785-.3724702.7765034-.5302856.375499-.195381.8085788-.3627123 1.158592-.4834332zm-4.2332932.4928801-.0978931.0142931c-.5653406.0741414-1.096136.1337393-1.5430944.1791978l.1388873.2272607c.0441899.0694452.1641345-.0505042.612369-.0189411.166479.0117528.354834.0259353.5686468.0453757.0592754-.167836.1694324-.315859.3210844-.4471862zm136.1411468-10.9051895-2.764448 2.4046223.05378.2323435c.368841 1.6676488.635697 3.3736628.703043 4.9448314.053791 1.1882454-.00984 2.3045063-.229022 3.2754509.778309.027694 2.016025.0645614 3.53938.0687515l.669848-.0003269c3.317227-.0124294 7.753563-.1907245 11.764534-.90686.965898-.1704536 1.799241.0315631 2.664034.2398988.306903.0753836.617251.1507643.932511.2050925.765903-.3875396 1.278179-.3515924 2.346845-1.8685231-.008432-.0065652-.018261-.0111916-.028133-.0158286-.184261-.086602-.378742-.172667-.570099-.2536423-.257508.8560474-1.136089 2.0303574-4.071371 1.5598818.430366-.5868702 2.884587-.1989043 3.341002-1.8502673-.169076-.0632253-.312911-.1127647-.416673-.1440893-.113631-.0315631-.246202-.0631262-.410353-.0820673-.13101-.0140377-.282819-.0211337-.457999-.0187288-.304036.7662981-1.295543.8188626-2.117713.9209997.373166-.1060599.888097-.6789506 1.2239-1.0966648l.09384-.1192517-.094184-.0863866c-1.198896-1.039833-2.622777-1.2974256-4.203317-1.5886033-2.304283-.4229743-4.917893-.8964528-7.821761-3.6489051-.618672-.5871088-1.470939-1.3131081-2.323191-1.792938-.694436-.3914113-1.369931-.6060499-1.824453-.3787893zm-95.9211633-20.3912352c-.959579.4292934-2.935544 1.9317638-4.7599966 3.6362993-1.5782509 1.4835616-3.0113407 3.0934402-3.5037764 4.2423492l-.0252602.0441851c-.7070582 1.3509902-1.4898807 3.535291-1.4393765 5.4796606l.0194744-.0123796c.0315631 1.262604.4355963 2.4178967 1.4835616 3.1186519l.0189411.012622c2.6325191 1.9065522 4.8736108 3.3521832 6.893777 4.5327683 2.0201659 1.1805367 3.8257099 2.1085688 5.5680629 2.9670587 3.882437 1.912855 7.632512 3.4279797 11.546463 4.4758804 3.907809 1.0479653 7.967051 1.6350417 12.46184 1.6982326 4.355963.0631423 8.983437-.315647 13.629819-.6944362 4.456972-.3661511 8.926549-.7323022 13.27621-.7070582h.037882c6.155204.3914112 12.493516.8017474 18.831182 1.2120997 6.161507.3977142 12.329317.8017475 18.326949 1.1805367.233579-.8964528.303024-1.9697429.25252-3.1375606-.063142-1.5214438-.334588-3.2007515-.707058-4.8483991-5.511337-.1893946-10.485956-1.6730209-15.55528-3.1818427l-.48683-.1452453-.975862-.2899639-.489263-.1442032-.981767-.2855605c-6.39704-1.8404604-13.116839-3.3315536-21.301809-1.9254424l-.164135.0063191c-6.123689-.5744868-11.502342-2.21588-17.108384-3.9330213-2.367311-.7259993-4.772602-1.4646206-7.329486-2.1463863l-.02526-.0063191c-2.08966-.6312939-3.667814-1.7108384-5.265039-2.8030211-.530285-.3661511-1.066906-.7323022-1.597192-1.0669064l-.27778-.3598482-.008908-.0304828c-2.794529.6865483-5.098336 5.5163205-6.60106 7.6622347.976502-3.0265639 2.634903-7.535647 5.928328-8.8312977-.963776-1.1571311-2.734199-2.2134788-4.809555-3.0518475-2.10969.2830301-4.589864 2.906493-5.967172 4.1307167.988296-1.7283946 2.302429-3.7341833 4.106043-4.7998761-.017367-.0049906-.035126-.0106198-.052895-.0162327-3.560503-1.1300325-7.468312-1.5845699-9.740919-.9090748-.043187.0129568-.084896.0259136-.125379.0391226l.075392.1050688-5.4481456 4.128735-4.4947892 5.0062953.3914417-.5879539c2.186328-3.2968228 2.7088607-4.3073382 3.412184-5.1098375l.1378957-.1522316c.6890922-.7363242 1.6416477-1.4066782 4.3835934-3.730321zm116.3094423 29.3520197-.039757.0430621c-.490985.5493974-1.397423 1.3541383-2.605831 1.517879.292394.0283824.589931.0328137.893246-.0041743.744941-.0946892 1.33205-.3535291 1.69193-.681798.119949-.1073112.208336-.2209577.252521-.3282851.037882-.0757482.050504-.1515125.044201-.2209577-.006319-.0757482-.050504-.1578154-.132588-.2462017-.020035-.0215779-.055497-.0484227-.103722-.0795243zm-148.1326417-1.5047224c-.3133506.0497357-.6580618.2601471-1.2441075.674454.6652409-.2225438 1.4225228-.4259808 2.2293633-.5558268-.4479698-.1129886-.7466818-.1583913-.9852558-.1186272zm-2.8975484.2659626c-.1299074.0063418-.2564842.0120214-.3791791.017701-.2525219.011787-.4861869.022226-.6939345.0351483l-.0605798.0043079c.1716675.0725681.3973098.1404344.7759092.1981498zm21.6008786-15.14611-.5720098 2.0521561-.0252601.0694453-5.2501461 12.8851062.0930947.0018758c.6096015.0102719 1.2187888.0039936 1.3061942-.2174365.4292773-1.0795284 1.1110915-2.5315108 1.8622701-4.1224321 1.517875-3.2247002 3.3006258-7.0203494 3.7226686-9.4375045-.4635173-.4085519-.8414407-.8421307-1.1368116-1.2312103zm-11.4064119 12.4231838-.1258484.0034332c-.3211742.0094685-.6210396.0157795-.9019558.0220905-.7954445.0126382-1.4204355.0252602-1.9886517.1262685-.6249909.1136303-1.1679147.3787893-1.868573.7196802-.2521517.1231411-.5230625.2553611-.8251007.3944114.7269214-.0344727 1.5053603.1063853 3.4758821.1113413-.2282112.1154781-.8995135.3351411-1.5851781.5463324.2021471.0550733.4192135.1131346.6513473.1736064l2.9733584-1.3131081c.0568486-.2495718.1222234-.5113252.1947199-.7840558zm128.6294674-1.6702456-.161755.0042121c1.485063.7188271 2.881971.9748815 4.176608 1.2123738.224389.0409396.445931.0813885.664698.1233916-1.047024-1.1517562-3.106784-1.3667036-4.679551-1.3399775zm-14.35675-2.6796522-.081695.6962892c.838651.0846646 1.686487.1410596 2.545637.1640167l2.819334-2.4551755c-2.246874-1.3380321-2.90911-1.3075362-5.283276 1.5948696zm-91.7847619-27.928973-.1124536.0394708c-.8801879.3067404-1.9502901.6372228-3.0384947.8950868-.9632118.2263313-1.9439717.3956145-2.8288682.4456456-.601338 3.020943-1.2874172 5.8389798-2.2079396 8.1099202l-2.4383624 8.7350153c.2080771.3767016.7614612 1.2707154 1.6671713 2.022991l.0003418.0422649-.0013979-.3258037c.0342236-2.0824948.8375424-4.3100615 1.5671907-5.7275292.5681677-1.3257301 2.1148717-3.0806728 3.8068013-4.6652913 1.6416623-1.5381749 3.448795-2.9338424 4.6428695-3.6188828-1.0869054-1.6597071-1.1262286-4.457178-1.0568582-5.9528876zm-63.001983 6.5059428.1090588.00527 5.7039048.5118203c.5897189.05194 1.0253071.5734826.9720946 1.1642905-.0481906.5531208-.5103471.9726492-1.0541912.9786337l-.1102941-.0041449-5.7026409-.5129191c-.5908177-.053204-1.0264058-.5747465-.9744888-1.1644853.0505563-.5529523.5114488-.9713819 1.0565568-.9784652zm46.3188086-4.4496689-2.2770355.046584c.4095386 1.0266197 1.1720606 2.8179216 2.0953671 4.409462.0591557-.1591223.1212815-.3126447.1857622-.462572-.0757724-1.2590178-.0640944-2.5974264-.0040938-3.993474zm-43.7791305-5.2065593c.3884921.4469091.3422608 1.1250244-.1059122 1.5146153l-4.3209745 3.7561659c-.4469091.3884921-1.1261232.3409968-1.5146153-.1059123-.3895909-.448173-.3409969-1.1261231.1059122-1.5146152l4.3209745-3.7561659c.4481731-.3895909 1.1250244-.3422608 1.5146153.1059122zm41.9262319-19.8653458-.1907036.2280076c-.571165.6877139-1.0871155 1.3490066-1.5640543 2.0434051-.8396296 1.2373438-1.5593098 2.5947016-2.2347887 4.4254571l-.0189411.037866c-1.0858475 2.4052908-1.3572932 4.254955-1.1426545 5.7574739.2083357 1.4772425.8901337 2.638822 1.7045355 3.6804197l.0694452.1073274 1.8559672 3.7183989.0694452.2525208.025244.4608565c.0568232 1.0353433.1073274 2.0770541.4861005 3.1249548l2.8604416-.0553433c.0739314-1.2314618.174897-2.5008034.2778625-3.7941078.2259634-2.8432945.4586615-5.7675082.455528-9.1786108-.0220537-.0150458-.0461341-.0300037-.070646-.0451776-2.083357-1.306789-6.4330175-4.0403325-2.9103323-9.9809143.1018893-.2650125.2112282-.5258817.3275508-.782534zm18.8061204 19.7884443-.2241381.0948604c-1.8500211.7582194-3.2265492.969535-5.3648376.9905918-.1335315.7434305-.2682577 1.4830411-.4065081 2.2138895.7252786-.0630882 1.516101-.2079027 2.2965941-.3937366 1.3131081-.309344 2.5947015-.7323022 3.5226851-1.0732093v-.0315631c.0246327-.5455131.057116-1.2205448.1762046-1.8008327zm-71.0099486-5.2923478c.5924692.0295425 1.0483179.533507 1.0187973 1.1259686l-.2880896 5.7183624c-.0295397.5924725-.5335042 1.0483212-1.1259686 1.0187973-.5912084-.0306385-1.0470571-.5346029-1.0175333-1.1270674l.2868256-5.7172636c.0295397-.5924725.5347682-1.04942 1.1259686-1.0187973zm69.2580221-24.1070769.0159002.0106244c.5761861.3989366 1.1098257 1.0065508 1.5793123 1.7719716.8206885 1.3383521 1.4646205 3.1944486 1.7866351 5.2587353.3156469 2.0516809.3156469 4.3307517-.1578316 6.5277229-.6852825 3.2145393-2.366502 6.2631993-5.4986594 8.23573-.4654834 2.9371359-1.0165359 5.6072506-1.2684613 7.0229738-.0692407.391682-.1384813.7831631-.2080132 1.1737791 2.3104948-.6471601 3.8787612-.9985971 6.3618114-2.4997839l.0078151.0104684c.0178084-.0724501.0343527-.1498517.0493637-.232412.0883863-.4924196.1136303-1.1489736.012622-1.9823488-.1073112-.9027557.4355963-2.7209215 1.0037641-4.6337766.4040332-1.3572931.8270076-2.765042 1.0164026-3.8383159.02526-1.5025027-.220958-3.4342827-.454538-5.2524323-.1515123-1.1931587-.2967057-2.3421-.359848-3.2826894-.0441851-.6754952-.0315631-1.3194272-.025244-1.9380668.025244-1.742353.0505042-3.2259631-1.4519986-4.8862165l-.3598481-.2398988-.3140447-.2078688c-.5501257-.3622312-1.1182179-.7213411-1.7351396-1.0181957zm5.135625 6.4682239.00068-.1034705c-.006303.5744868-.018925 1.1805366.025261 1.8370584.063126.9343349.202016 2.0453779.34721 3.2007514l.065517.5159706.023859.1916871c.18116-2.3043901-.073804-4.1882888-.462527-5.641997zm-6.2548049-31.06248649-.2398988.06312616c-.5176635.03156308-1.0858313.53028557-1.6287388 1.00376406-.7765035.67549512-1.5151247 1.32573008-2.4746229 1.16791469l-.1578316-.05050416c-.3914112-.17677263-.8396296-.22726062-1.3131081-.27778094-.2588398-.03156308-.5302855-.05680708-.8333105-.11363031-.8648897-.15783156-1.0605873-.08206724-1.0858474.03788215-.0189249.09468924-.012622.24620171-.0063029.37878926.025244.47347849.044185.89013375-.4419155 1.17421761-.4229743.24620171-.7954445.38509218-1.1110914.50504157-.3598482.1325714-.5808059.22095771-.5366047.51766357l.1199494.75124328h-.7575623c-.6754951 0-.6881171.03788216-.7386213.15781539-.0378822.09470539-.0820672.20833571-.1262685.29670586-.1641344.3535291-.4419154.60604988-.7765034.90907483-.290403.26514278-.624991.5744868-.8901338.99114206-.128912.25209641-.0849294.51589371.0676489.80200361.6301638.5391803 4.5596182 3.8316702 7.3434685 4.6145632-1.7430325-.0909425-3.404534-.6578505-4.8160808-1.3680402.3105575.5400178.567713 1.1522793.7192806 1.860379l.0126381.1515124c-.0631423 2.5252079.1325714 5.0756274.309344 7.3294865l.006303.0820673c.0947054 1.2310408.1578315 2.3800791.0694452 3.5037764-.0290475.3796731-.07514.7552477-.1423115 1.1285263 1.157285-.9133565 2.3603491-1.6820851 3.5884889-2.1891783 3.8974015-1.5866714 6.3205104-.7592264 8.3563169.4473818-3.1588464-4.050317-2.9858024-5.916478.4756562-10.4340819.080541-.3068293.1388414-.5897268.1751177-.85072-.3568915.4486903-.9729036.779506-1.7151309 1.0021517-.8396296.2525208-1.8496642.3598482-2.7904153.334588-.9532599-.025244-1.8496642-.1956975-2.4494112-.4987225-.7386213-.3724702-1.0732093-.9280159-.7007391-1.6665564.1704535.7765035.0694452.6186719.9911421 1.0858313.5113606.2588399 1.313108.4040333 2.1780624.4292934.8775118.025244 1.8118468-.0757643 2.5883987-.309344.7401069-.219794 1.5662399-.8666433 1.8987563-1.5035042-.3356072-1.7953959-2.5260408-2.0019429-6.4004787-2.227549 2.0074958-.6629377 1.2436144-2.67041736 3.364789-3.73100466.9170747-.45538588-.7644101-2.52530775 1.8425693-4.81684231l.2091115-.17668551c.4745351-.34879561.6062918-.69123914.8384588-1.05760806-.0873965-.00828362-.175248-.01299739-.263277-.01605376-.8838308-.03156307-1.8118468.10100832-2.7587391.56186481zm-5.3415459 24.62716839c-.5244397.218017-1.0470334.4904155-1.5653183.8061745 2.3892623-1.1110382 4.7474099-1.603837 6.4949506-1.38822-1.3243153-.3082514-2.900991-.2417493-4.9296323.5820455zm7.386633-13.9709529c.2840838.0883863.5113606.2209577.6376129.3914113.1641345.2146386.1704536.4608565-.037866.7196802-.2223446.2765703-.7567856.5810935-1.739351.8775418-.6863888.5742414-1.8612161.8479524-3.8668851-.0309628.6087499-.3115719 2.3057532.7853376 3.2449603-.2160039l-.018674-.0750294.106759-.0280571c.2192671-.281227.3887865-.697062.4808245-1.3001872-.4404358.0065557-.899953.0898728-1.2756844.2676732-.1451934.7828225-2.3231913 1.5719479-2.897775-.2651428v-.0063352c.0007291 0 .0328935.0132798.089326.035388l.1430988.0546687c.5992317.2233073 2.1534723.7337944 2.2043805.0046325l.0063191-.1325714.1199332-.0631262c.8270076-.4482183 2.0642868-.4671594 2.8030212-.2335797zm-.248318.4380278c-.0522759.2259233-.1484985.5369403-.322077.849801l.1035201-.042168c.3656113-.1542944.5864903-.2999676.6942325-.4312752.044185-.0568232.0505041-.1010083.025244-.1325714-.0631262-.0820672-.2020167-.1578315-.3977142-.2146386z" fill-rule="evenodd"></path></svg>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-1a5170d8 elementor-widget elementor-widget-heading" data-id="1a5170d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Online Workouts</h5>		</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-6daafd32 elementor-widget elementor-widget-text-editor" data-id="6daafd32" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Never miss a moment of your online fitness program with this collection of our newest videos.</p></div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-32b4d671 elementor-align-left elementor-widget elementor-widget-button" data-id="32b4d671" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/online-workouts" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Learn more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c5343cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c5343cc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d1cd247" data-id="d1cd247" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-6c26d2e elementor-nav-menu--dropdown-none elementor-nav-menu--indicator-classic vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="6c26d2e" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-6c26d2e" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4674"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-item">Personal Training</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5150"><a href="https://ativo.demo.vamtam.com/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4675"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-6c26d2e" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4674"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-item">Personal Training</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5150"><a href="https://ativo.demo.vamtam.com/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4675"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8cb4caa" data-id="8cb4caa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-fc57242 elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="fc57242" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Copyright © 2021 <a href="https://vamtam.com">Vamtam Themes</a></p></div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-239568a elementor-nav-menu__align-right elementor-nav-menu--dropdown-none elementor-widget__width-auto elementor-nav-menu--indicator-classic vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="239568a" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-239568a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-909"><a href="https://ativo.demo.vamtam.com/privacy-policy/" class="elementor-item">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913"><a href="https://ativo.demo.vamtam.com/terms-conditions/" class="elementor-item">Terms &#038; Conditions</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-239568a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-909"><a href="https://ativo.demo.vamtam.com/privacy-policy/" class="elementor-item">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913"><a href="https://ativo.demo.vamtam.com/terms-conditions/" class="elementor-item">Terms &#038; Conditions</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+						</footer>
+			</div>
+		
+</div><!-- / #page -->
+
+
+
+<div id="scroll-to-top" class="vamtam-scroll-to-top icon"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M15.098 8.344L.678 21.164C.081 21.694 0 22.645.5 23.279c.499.638 1.385.725 1.983.193l13.518-12.018 13.516 12.02c.6.53 1.486.445 1.985-.193s.419-1.585-.178-2.115L16.906 8.345c-.263-.234-.584-.351-.905-.351s-.641.118-.902.35z"/></svg></div>
+
+
+		<div data-elementor-type="popup" data-elementor-id="45" class="elementor elementor-45 elementor-location-popup" data-elementor-settings="{&quot;close_button_delay&quot;:1,&quot;prevent_scroll&quot;:&quot;yes&quot;,&quot;avoid_multiple_popups&quot;:&quot;yes&quot;,&quot;prevent_close_on_background_click&quot;:&quot;yes&quot;,&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-d447a60 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d447a60" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d69a06" data-id="d69a06" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-79fb43e5 elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="79fb43e5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;pulse&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-woman-fashion"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-5aff6dc1 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="5aff6dc1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Don’t Wait. Get Fit Today.
+</h5>		</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-1877f31b elementor-nav-menu--dropdown-mobile elementor-nav-menu__align-center elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="1877f31b" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-1877f31b" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-180"><a href="https://ativo.demo.vamtam.com/" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-689"><a href="https://ativo.demo.vamtam.com/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://ativo.demo.vamtam.com/home-2/" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3347"><a href="#" class="elementor-item elementor-item-anchor">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3351"><a href="https://ativo.demo.vamtam.com/pilates-yoga/" class="elementor-sub-item">Pilates &#038; Yoga</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3348"><a href="https://ativo.demo.vamtam.com/zumba/" class="elementor-sub-item">Zumba</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3350"><a href="https://ativo.demo.vamtam.com/hiit-strength/" class="elementor-sub-item">Hiit &#038; Strength</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349"><a href="https://ativo.demo.vamtam.com/cardio-boxing/" class="elementor-sub-item">Cardio &#038; Boxing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3352"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-sub-item">Personal Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3353"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://ativo.demo.vamtam.com/trainers/" class="elementor-sub-item">Trainers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://ativo.demo.vamtam.com/reviews/" class="elementor-sub-item">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://ativo.demo.vamtam.com/contact/" class="elementor-sub-item">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5784"><a href="https://ativo.demo.vamtam.com/schedules/" class="elementor-sub-item">Schedules</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://ativo.demo.vamtam.com/blog/" class="elementor-sub-item">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-1877f31b" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-180"><a href="https://ativo.demo.vamtam.com/" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-689"><a href="https://ativo.demo.vamtam.com/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://ativo.demo.vamtam.com/home-2/" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3347"><a href="#" class="elementor-item elementor-item-anchor">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3351"><a href="https://ativo.demo.vamtam.com/pilates-yoga/" class="elementor-sub-item">Pilates &#038; Yoga</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3348"><a href="https://ativo.demo.vamtam.com/zumba/" class="elementor-sub-item">Zumba</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3350"><a href="https://ativo.demo.vamtam.com/hiit-strength/" class="elementor-sub-item">Hiit &#038; Strength</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349"><a href="https://ativo.demo.vamtam.com/cardio-boxing/" class="elementor-sub-item">Cardio &#038; Boxing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3352"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-sub-item">Personal Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3353"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://ativo.demo.vamtam.com/trainers/" class="elementor-sub-item">Trainers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://ativo.demo.vamtam.com/reviews/" class="elementor-sub-item">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://ativo.demo.vamtam.com/contact/" class="elementor-sub-item">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5784"><a href="https://ativo.demo.vamtam.com/schedules/" class="elementor-sub-item">Schedules</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://ativo.demo.vamtam.com/blog/" class="elementor-sub-item">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-339c3ad1 elementor-widget__width-initial elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="339c3ad1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-love-hands"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-5a36e455 elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-button" data-id="5a36e455" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_tablet&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/covid-19-guidelines" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Covid-19 Gidelines</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				<div data-elementor-type="popup" data-elementor-id="1522" class="elementor elementor-1522 elementor-location-popup" data-elementor-settings="{&quot;prevent_scroll&quot;:&quot;yes&quot;,&quot;avoid_multiple_popups&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-0394a83 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0394a83" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-523f238 elementor-invisible" data-id="523f238" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;none&quot;,&quot;animation_mobile&quot;:&quot;none&quot;,&quot;animation_delay&quot;:200}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-def1451 elementor-nav-menu--dropdown-none elementor-nav-menu__align-center elementor-nav-menu--indicator-classic vamtam-has-mobile-disable-scroll elementor-widget elementor-widget-nav-menu" data-id="def1451" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-def1451" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-1497"><a href="https://ativo.demo.vamtam.com/" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1498"><a href="https://ativo.demo.vamtam.com/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1496"><a href="https://ativo.demo.vamtam.com/home-2/" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1499"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4688"><a href="/about" class="elementor-sub-item">Studio</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1514"><a href="https://ativo.demo.vamtam.com/trainers/" class="elementor-sub-item">Trainers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1515"><a href="https://ativo.demo.vamtam.com/reviews/" class="elementor-sub-item">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="https://ativo.demo.vamtam.com/contact/" class="elementor-sub-item">Contact</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3355"><a href="#" class="elementor-item elementor-item-anchor">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1511"><a href="https://ativo.demo.vamtam.com/pilates-yoga/" class="elementor-sub-item">Pilates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1517"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-sub-item">Personal Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4691"><a href="https://ativo.demo.vamtam.com/schedules/" class="elementor-item">Schedules</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4687"><a href="/online-workouts" class="elementor-item">Videos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4689"><a href="https://ativo.demo.vamtam.com/live/" class="elementor-item">Live</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4677"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-def1451" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-1497"><a href="https://ativo.demo.vamtam.com/" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1498"><a href="https://ativo.demo.vamtam.com/" class="elementor-sub-item">Home 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1496"><a href="https://ativo.demo.vamtam.com/home-2/" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1499"><a href="https://ativo.demo.vamtam.com/about/" class="elementor-item">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4688"><a href="/about" class="elementor-sub-item">Studio</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1514"><a href="https://ativo.demo.vamtam.com/trainers/" class="elementor-sub-item">Trainers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1515"><a href="https://ativo.demo.vamtam.com/reviews/" class="elementor-sub-item">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="https://ativo.demo.vamtam.com/contact/" class="elementor-sub-item">Contact</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3355"><a href="#" class="elementor-item elementor-item-anchor">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1511"><a href="https://ativo.demo.vamtam.com/pilates-yoga/" class="elementor-sub-item">Pilates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1517"><a href="https://ativo.demo.vamtam.com/personal-training/" class="elementor-sub-item">Personal Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="https://ativo.demo.vamtam.com/membership/" class="elementor-item">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4691"><a href="https://ativo.demo.vamtam.com/schedules/" class="elementor-item">Schedules</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4687"><a href="/online-workouts" class="elementor-item">Videos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4689"><a href="https://ativo.demo.vamtam.com/live/" class="elementor-item">Live</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4677"><a href="https://ativo.demo.vamtam.com/shop-2/" class="elementor-item">Shop</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-57fffa8 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="57fffa8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8e9f55a" data-id="8e9f55a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-ed5d4b8 elementor-widget__width-initial elementor-view-default elementor-widget elementor-widget-icon" data-id="ed5d4b8" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="vamtamtheme- vamtam-theme-love-hands"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="vamtam-has-theme-widget-styles elementor-element elementor-element-60e5765 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="60e5765" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/covid-19-guidelines" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Covid-19 Gidelines</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+			<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='elementor-post-45-css'  href='https://ativo.demo.vamtam.com/wp-content/uploads/elementor/css/post-45.css?ver=1618564882' type='text/css' media='all' />
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/ativo.demo.vamtam.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.2.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.2.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='vamtam-all-js-extra'>
+/* <![CDATA[ */
+var VAMTAM_FRONT = {"ajaxurl":"https:\/\/ativo.demo.vamtam.com\/wp-admin\/admin-ajax.php","jspath":"https:\/\/ativo.demo.vamtam.com\/wp-content\/themes\/ativo\/vamtam\/assets\/js\/","max_breakpoint":"1025","beaver_responsive":"1025","beaver_small":"768","content_width":"1260"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/themes/ativo/vamtam/assets/js/all.min.js?ver=1617058442' id='vamtam-all-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b5a102acbc50109e8659d88a08297223","fragment_name":"wc_fragments_b5a102acbc50109e8659d88a08297223","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.2.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.1.4' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.1.4' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.1.4' id='share-link-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false,"isImprovedAssetsLoading":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.1.4","is_static":false,"experimentalFeatures":{"form-submissions":true},"urls":{"assets":"https:\/\/ativo.demo.vamtam.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found &#8211; Ativo","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.4' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/vamtam-elementor-integration/assets/js/widgets/nav-menu/vamtam-nav-menu.min.js?ver=1.0.8' id='vamtam-nav-menu-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/vamtam-elementor-integration//assets/js/widgets/text-editor/vamtam-text-editor.min.js?ver=1.0.8' id='vamtam-text-editor-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.1' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.1' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/ativo.demo.vamtam.com\/wp-admin\/admin-ajax.php","nonce":"df880cfeff","urls":{"assets":"https:\/\/ativo.demo.vamtam.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/ativo.demo.vamtam.com\/cart\/","checkout_page_url":"https:\/\/ativo.demo.vamtam.com\/checkout\/"},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/ativo.demo.vamtam.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.1' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.1' id='pro-preloaded-elements-handlers-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/vamtam-elementor-integration//assets/js/vamtam-elementor-frontend.min.js?ver=1.0.8' id='vamtam-elementor-frontend-js'></script>
+<script type='text/javascript' src='https://ativo.demo.vamtam.com/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.4' id='preloaded-elements-handlers-js'></script>
+</body>
+</html>
+
+
