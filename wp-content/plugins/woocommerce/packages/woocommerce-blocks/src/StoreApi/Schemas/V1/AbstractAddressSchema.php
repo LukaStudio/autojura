@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">403960</td>
+<td bgcolor="#eeeeec" align="center">0.0429</td>
+<td bgcolor="#eeeeec" align="right">361712</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\V1\AbstractAddressSchema.php" bgcolor="#eeeeec">...\AbstractAddressSchema.php<b>:</b>0</td>
 </tr>

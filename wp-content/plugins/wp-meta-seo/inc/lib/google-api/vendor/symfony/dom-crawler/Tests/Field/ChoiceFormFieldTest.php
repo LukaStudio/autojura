@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">478592</td>
+<td bgcolor="#eeeeec" align="center">0.0172</td>
+<td bgcolor="#eeeeec" align="right">478304</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\dom-crawler\Tests\Field\ChoiceFormFieldTest.php" bgcolor="#eeeeec">...\ChoiceFormFieldTest.php<b>:</b>0</td>
 </tr>

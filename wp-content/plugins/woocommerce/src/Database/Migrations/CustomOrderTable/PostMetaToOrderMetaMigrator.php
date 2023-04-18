@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">367688</td>
+<td bgcolor="#eeeeec" align="center">0.0082</td>
+<td bgcolor="#eeeeec" align="right">362032</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Database\Migrations\CustomOrderTable\PostMetaToOrderMetaMigrator.php" bgcolor="#eeeeec">...\PostMetaToOrderMetaMigrator.php<b>:</b>0</td>
 </tr>

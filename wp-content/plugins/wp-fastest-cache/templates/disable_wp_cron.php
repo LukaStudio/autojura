@@ -35,8 +35,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363512</td>
+<td bgcolor="#eeeeec" align="center">0.0165</td>
+<td bgcolor="#eeeeec" align="right">360240</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-fastest-cache\templates\disable_wp_cron.php" bgcolor="#eeeeec">...\disable_wp_cron.php<b>:</b>0</td>
 </tr>

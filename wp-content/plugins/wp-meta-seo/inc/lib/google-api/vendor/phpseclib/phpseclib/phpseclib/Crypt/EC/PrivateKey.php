@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">408664</td>
+<td bgcolor="#eeeeec" align="center">0.0138</td>
+<td bgcolor="#eeeeec" align="right">408088</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Crypt\EC\PrivateKey.php" bgcolor="#eeeeec">...\PrivateKey.php<b>:</b>0</td>
 </tr>

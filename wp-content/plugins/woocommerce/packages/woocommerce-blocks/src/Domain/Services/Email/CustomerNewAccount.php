@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">384344</td>
+<td bgcolor="#eeeeec" align="center">0.0119</td>
+<td bgcolor="#eeeeec" align="right">362096</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Domain\Services\Email\CustomerNewAccount.php" bgcolor="#eeeeec">...\CustomerNewAccount.php<b>:</b>0</td>
 </tr>

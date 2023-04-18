@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0038</td>
-<td bgcolor="#eeeeec" align="right">823624</td>
+<td bgcolor="#eeeeec" align="center">0.0191</td>
+<td bgcolor="#eeeeec" align="right">823232</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Net\SFTP.php" bgcolor="#eeeeec">...\SFTP.php<b>:</b>0</td>
 </tr>

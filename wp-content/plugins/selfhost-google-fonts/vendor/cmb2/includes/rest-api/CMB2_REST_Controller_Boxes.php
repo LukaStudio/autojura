@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
+<td bgcolor="#eeeeec" align="center">0.0289</td>
 <td bgcolor="#eeeeec" align="right">362368</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\selfhost-google-fonts\vendor\cmb2\includes\rest-api\CMB2_REST_Controller_Boxes.php" bgcolor="#eeeeec">...\CMB2_REST_Controller_Boxes.php<b>:</b>0</td>

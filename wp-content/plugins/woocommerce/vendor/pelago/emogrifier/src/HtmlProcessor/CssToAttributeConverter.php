@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">396640</td>
+<td bgcolor="#eeeeec" align="center">0.0075</td>
+<td bgcolor="#eeeeec" align="right">362384</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\pelago\emogrifier\src\HtmlProcessor\CssToAttributeConverter.php" bgcolor="#eeeeec">...\CssToAttributeConverter.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">375128</td>
+<td bgcolor="#eeeeec" align="center">0.0190</td>
+<td bgcolor="#eeeeec" align="right">375192</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\paragonie\constant_time_encoding\src\Hex.php" bgcolor="#eeeeec">...\Hex.php<b>:</b>0</td>
 </tr>

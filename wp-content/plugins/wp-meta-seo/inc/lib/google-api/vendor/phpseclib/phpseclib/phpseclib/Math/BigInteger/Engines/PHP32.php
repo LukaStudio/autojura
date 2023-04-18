@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">398264</td>
+<td bgcolor="#eeeeec" align="center">0.0116</td>
+<td bgcolor="#eeeeec" align="right">397864</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Math\BigInteger\Engines\PHP32.php" bgcolor="#eeeeec">...\PHP32.php<b>:</b>0</td>
 </tr>

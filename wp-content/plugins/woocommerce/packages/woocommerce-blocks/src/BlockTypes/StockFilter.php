@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">366848</td>
+<td bgcolor="#eeeeec" align="center">0.0079</td>
+<td bgcolor="#eeeeec" align="right">362176</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\StockFilter.php" bgcolor="#eeeeec">...\StockFilter.php<b>:</b>0</td>
 </tr>

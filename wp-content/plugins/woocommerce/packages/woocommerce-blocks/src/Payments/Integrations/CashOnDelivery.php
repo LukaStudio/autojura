@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">371320</td>
+<td bgcolor="#eeeeec" align="center">0.0253</td>
+<td bgcolor="#eeeeec" align="right">362064</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\CashOnDelivery.php" bgcolor="#eeeeec">...\CashOnDelivery.php<b>:</b>0</td>
 </tr>

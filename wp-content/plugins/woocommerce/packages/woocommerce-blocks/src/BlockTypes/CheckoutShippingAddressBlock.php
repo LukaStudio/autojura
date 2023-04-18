@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">362112</td>
+<td bgcolor="#eeeeec" align="center">0.0064</td>
+<td bgcolor="#eeeeec" align="right">361024</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutShippingAddressBlock.php" bgcolor="#eeeeec">...\CheckoutShippingAddressBlock.php<b>:</b>0</td>
 </tr>

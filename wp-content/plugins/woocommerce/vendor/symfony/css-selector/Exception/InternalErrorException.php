@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">361696</td>
+<td bgcolor="#eeeeec" align="center">0.0052</td>
+<td bgcolor="#eeeeec" align="right">360608</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\symfony\css-selector\Exception\InternalErrorException.php" bgcolor="#eeeeec">...\InternalErrorException.php<b>:</b>0</td>
 </tr>

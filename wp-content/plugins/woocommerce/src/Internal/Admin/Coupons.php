@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">377256</td>
+<td bgcolor="#eeeeec" align="center">0.0139</td>
+<td bgcolor="#eeeeec" align="right">361496</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\Admin\Coupons.php" bgcolor="#eeeeec">...\Coupons.php<b>:</b>0</td>
 </tr>

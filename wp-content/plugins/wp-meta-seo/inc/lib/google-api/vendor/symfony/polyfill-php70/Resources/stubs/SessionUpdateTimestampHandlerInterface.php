@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0057</td>
 <td bgcolor="#eeeeec" align="right">362744</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\polyfill-php70\Resources\stubs\SessionUpdateTimestampHandlerInterface.php" bgcolor="#eeeeec">...\SessionUpdateTimestampHandlerInterface.php<b>:</b>0</td>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">370408</td>
+<td bgcolor="#eeeeec" align="center">0.0062</td>
+<td bgcolor="#eeeeec" align="right">362040</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartRemoveItem.php" bgcolor="#eeeeec">...\CartRemoveItem.php<b>:</b>0</td>
 </tr>

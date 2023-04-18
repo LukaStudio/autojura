@@ -16,29 +16,29 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">360800</td>
+<td bgcolor="#eeeeec" align="center">0.0110</td>
+<td bgcolor="#eeeeec" align="right">360120</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\autoload_packages.php" bgcolor="#eeeeec">...\autoload_packages.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0010</td>
-<td bgcolor="#eeeeec" align="right">369264</td>
+<td bgcolor="#eeeeec" align="center">0.0252</td>
+<td bgcolor="#eeeeec" align="right">360952</td>
 <td bgcolor="#eeeeec">Automattic\Jetpack\Autoloader\jp59f5c332215630617c6834bf06f2cc8d\Autoloader::init( <span>$container = </span>??? )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\autoload_packages.php" bgcolor="#eeeeec">...\autoload_packages.php<b>:</b>13</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0059</td>
-<td bgcolor="#eeeeec" align="right">529696</td>
+<td bgcolor="#eeeeec" align="center">0.1727</td>
+<td bgcolor="#eeeeec" align="right">366312</td>
 <td bgcolor="#eeeeec">Automattic\Jetpack\Autoloader\jp59f5c332215630617c6834bf06f2cc8d\Plugin_Locator->find_current_plugin(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-autoloader.php" bgcolor="#eeeeec">...\class-autoloader.php<b>:</b>46</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
-<td bgcolor="#eeeeec" align="center">0.0059</td>
-<td bgcolor="#eeeeec" align="right">529792</td>
+<td bgcolor="#eeeeec" align="center">0.1727</td>
+<td bgcolor="#eeeeec" align="right">366408</td>
 <td bgcolor="#eeeeec">Automattic\Jetpack\Autoloader\jp59f5c332215630617c6834bf06f2cc8d\Path_Processor->find_directory_with_autoloader( <span>$file = </span><span>&#39;C:\\wamp64\\www\\autojura\\wp-content\\plugins\\woocommerce&#39;</span>, <span>$directories_to_check = </span><span>[]</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-plugin-locator.php" bgcolor="#eeeeec">...\class-plugin-locator.php<b>:</b>45</td>
 </tr>

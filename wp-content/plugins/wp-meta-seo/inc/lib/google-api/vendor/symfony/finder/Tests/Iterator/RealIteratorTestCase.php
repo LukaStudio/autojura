@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="center">0.0182</td>
 <td bgcolor="#eeeeec" align="right">383912</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\finder\Tests\Iterator\RealIteratorTestCase.php" bgcolor="#eeeeec">...\RealIteratorTestCase.php<b>:</b>0</td>

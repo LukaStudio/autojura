@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">401488</td>
+<td bgcolor="#eeeeec" align="center">0.0268</td>
+<td bgcolor="#eeeeec" align="right">401616</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\dom-crawler\Tests\LinkTest.php" bgcolor="#eeeeec">...\LinkTest.php<b>:</b>0</td>
 </tr>

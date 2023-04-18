@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">369464</td>
+<td bgcolor="#eeeeec" align="right">369376</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\macchina\vamtam\customizer\lib\controls\class-vamtam-customize-responsive-position-control.php" bgcolor="#eeeeec">...\class-vamtam-customize-responsive-position-control.php<b>:</b>0</td>
 </tr>

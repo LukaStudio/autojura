@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0173</td>
 <td bgcolor="#eeeeec" align="right">363664</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentythree\patterns\hidden-404.php" bgcolor="#eeeeec">...\hidden-404.php<b>:</b>0</td>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">372760</td>
+<td bgcolor="#eeeeec" align="center">0.0265</td>
+<td bgcolor="#eeeeec" align="right">361864</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\sabberworm\php-css-parser\src\Value\CSSString.php" bgcolor="#eeeeec">...\CSSString.php<b>:</b>0</td>
 </tr>

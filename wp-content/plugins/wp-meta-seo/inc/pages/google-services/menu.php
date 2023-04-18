@@ -17,7 +17,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0659</td>
 <td bgcolor="#eeeeec" align="right">370600</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\pages\google-services\menu.php" bgcolor="#eeeeec">...\menu.php<b>:</b>0</td>

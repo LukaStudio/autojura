@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="center">0.0121</td>
 <td bgcolor="#eeeeec" align="right">361536</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentyone\template-parts\excerpt\excerpt-image.php" bgcolor="#eeeeec">...\excerpt-image.php<b>:</b>0</td>

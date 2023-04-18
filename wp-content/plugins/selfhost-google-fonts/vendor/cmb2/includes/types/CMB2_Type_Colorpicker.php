@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
+<td bgcolor="#eeeeec" align="center">0.0098</td>
 <td bgcolor="#eeeeec" align="right">361840</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\selfhost-google-fonts\vendor\cmb2\includes\types\CMB2_Type_Colorpicker.php" bgcolor="#eeeeec">...\CMB2_Type_Colorpicker.php<b>:</b>0</td>

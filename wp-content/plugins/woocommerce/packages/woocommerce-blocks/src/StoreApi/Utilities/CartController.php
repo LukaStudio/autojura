@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">533560</td>
+<td bgcolor="#eeeeec" align="center">0.0109</td>
+<td bgcolor="#eeeeec" align="right">363960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php" bgcolor="#eeeeec">...\CartController.php<b>:</b>0</td>
 </tr>

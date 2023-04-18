@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0207</td>
 <td bgcolor="#eeeeec" align="right">367280</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\paragonie\constant_time_encoding\src\Base32Hex.php" bgcolor="#eeeeec">...\Base32Hex.php<b>:</b>0</td>

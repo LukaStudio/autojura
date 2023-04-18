@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">387880</td>
+<td bgcolor="#eeeeec" align="center">0.0098</td>
+<td bgcolor="#eeeeec" align="right">387752</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\filesystem\Tests\LockHandlerTest.php" bgcolor="#eeeeec">...\LockHandlerTest.php<b>:</b>0</td>
 </tr>

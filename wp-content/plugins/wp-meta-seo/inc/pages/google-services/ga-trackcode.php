@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">420784</td>
+<td bgcolor="#eeeeec" align="center">0.1026</td>
+<td bgcolor="#eeeeec" align="right">420680</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\pages\google-services\ga-trackcode.php" bgcolor="#eeeeec">...\ga-trackcode.php<b>:</b>0</td>
 </tr>

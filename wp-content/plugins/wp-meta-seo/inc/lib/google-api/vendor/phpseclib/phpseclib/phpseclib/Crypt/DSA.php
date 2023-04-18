@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">397168</td>
+<td bgcolor="#eeeeec" align="center">0.0222</td>
+<td bgcolor="#eeeeec" align="right">397360</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Crypt\DSA.php" bgcolor="#eeeeec">...\DSA.php<b>:</b>0</td>
 </tr>

@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
+<td bgcolor="#eeeeec" align="center">0.0106</td>
 <td bgcolor="#eeeeec" align="right">361648</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\elementor-pro\modules\forms\submissions\database\migrations\referer-extra.php" bgcolor="#eeeeec">...\referer-extra.php<b>:</b>0</td>

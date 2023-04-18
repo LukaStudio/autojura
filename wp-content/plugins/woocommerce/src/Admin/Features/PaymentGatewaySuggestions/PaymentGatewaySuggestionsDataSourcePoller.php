@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">369136</td>
+<td bgcolor="#eeeeec" align="center">0.0161</td>
+<td bgcolor="#eeeeec" align="right">362464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Admin\Features\PaymentGatewaySuggestions\PaymentGatewaySuggestionsDataSourcePoller.php" bgcolor="#eeeeec">...\PaymentGatewaySuggestionsDataSourcePoller.php<b>:</b>0</td>
 </tr>

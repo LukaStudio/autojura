@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">367464</td>
+<td bgcolor="#eeeeec" align="center">0.0095</td>
+<td bgcolor="#eeeeec" align="right">362480</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\google\apiclient-services\src\Google\Service\AnalyticsReporting\EcommerceData.php" bgcolor="#eeeeec">...\EcommerceData.php<b>:</b>0</td>
 </tr>

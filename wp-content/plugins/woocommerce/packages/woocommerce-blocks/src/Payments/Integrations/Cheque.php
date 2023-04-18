@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">368512</td>
+<td bgcolor="#eeeeec" align="center">0.0068</td>
+<td bgcolor="#eeeeec" align="right">362000</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\Cheque.php" bgcolor="#eeeeec">...\Cheque.php<b>:</b>0</td>
 </tr>

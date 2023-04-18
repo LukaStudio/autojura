@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0018</td>
-<td bgcolor="#eeeeec" align="right">486232</td>
+<td bgcolor="#eeeeec" align="center">0.0178</td>
+<td bgcolor="#eeeeec" align="right">364736</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\pelago\emogrifier\src\CssInliner.php" bgcolor="#eeeeec">...\CssInliner.php<b>:</b>0</td>
 </tr>

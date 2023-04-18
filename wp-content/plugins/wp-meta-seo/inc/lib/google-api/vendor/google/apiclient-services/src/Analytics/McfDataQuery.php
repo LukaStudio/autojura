@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">373552</td>
+<td bgcolor="#eeeeec" align="center">0.0116</td>
+<td bgcolor="#eeeeec" align="right">363656</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\google\apiclient-services\src\Analytics\McfDataQuery.php" bgcolor="#eeeeec">...\McfDataQuery.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364480</td>
+<td bgcolor="#eeeeec" align="center">0.0137</td>
+<td bgcolor="#eeeeec" align="right">364512</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentytwo\inc\patterns\general-layered-images-with-duotone.php" bgcolor="#eeeeec">...\general-layered-images-with-duotone.php<b>:</b>0</td>
 </tr>

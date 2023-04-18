@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">498608</td>
+<td bgcolor="#eeeeec" align="center">0.0225</td>
+<td bgcolor="#eeeeec" align="right">362952</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\sabberworm\php-css-parser\src\RuleSet\DeclarationBlock.php" bgcolor="#eeeeec">...\DeclarationBlock.php<b>:</b>0</td>
 </tr>

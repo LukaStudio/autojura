@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0012</td>
-<td bgcolor="#eeeeec" align="right">399720</td>
+<td bgcolor="#eeeeec" align="center">0.0119</td>
+<td bgcolor="#eeeeec" align="right">364624</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Store.php" bgcolor="#eeeeec">...\ActionScheduler_Store.php<b>:</b>0</td>
 </tr>

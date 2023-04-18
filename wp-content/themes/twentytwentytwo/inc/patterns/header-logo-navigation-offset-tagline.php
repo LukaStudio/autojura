@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0095</td>
 <td bgcolor="#eeeeec" align="right">363584</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentytwo\inc\patterns\header-logo-navigation-offset-tagline.php" bgcolor="#eeeeec">...\header-logo-navigation-offset-tagline.php<b>:</b>0</td>

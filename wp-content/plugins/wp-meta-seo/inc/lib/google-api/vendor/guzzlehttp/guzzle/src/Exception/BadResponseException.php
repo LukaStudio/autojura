@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364312</td>
+<td bgcolor="#eeeeec" align="center">0.0133</td>
+<td bgcolor="#eeeeec" align="right">361296</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\guzzlehttp\guzzle\src\Exception\BadResponseException.php" bgcolor="#eeeeec">...\BadResponseException.php<b>:</b>0</td>
 </tr>

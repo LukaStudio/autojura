@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">365744</td>
+<td bgcolor="#eeeeec" align="center">0.0082</td>
+<td bgcolor="#eeeeec" align="right">361200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\action-scheduler\lib\cron-expression\CronExpression_HoursField.php" bgcolor="#eeeeec">...\CronExpression_HoursField.php<b>:</b>0</td>
 </tr>

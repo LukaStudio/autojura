@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">366632</td>
+<td bgcolor="#eeeeec" align="center">0.0095</td>
+<td bgcolor="#eeeeec" align="right">362320</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\vendor\composer\installers\src\Composer\Installers\MajimaInstaller.php" bgcolor="#eeeeec">...\MajimaInstaller.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">362504</td>
+<td bgcolor="#eeeeec" align="center">0.0083</td>
+<td bgcolor="#eeeeec" align="right">361296</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\vendor\composer\installers\src\Composer\Installers\ModxInstaller.php" bgcolor="#eeeeec">...\ModxInstaller.php<b>:</b>0</td>
 </tr>

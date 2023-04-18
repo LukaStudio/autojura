@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0128</td>
 <td bgcolor="#eeeeec" align="right">362368</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentythree\patterns\call-to-action.php" bgcolor="#eeeeec">...\call-to-action.php<b>:</b>0</td>

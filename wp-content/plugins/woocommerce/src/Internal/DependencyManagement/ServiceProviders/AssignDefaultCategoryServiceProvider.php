@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">367576</td>
+<td bgcolor="#eeeeec" align="center">0.0202</td>
+<td bgcolor="#eeeeec" align="right">361632</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\DependencyManagement\ServiceProviders\AssignDefaultCategoryServiceProvider.php" bgcolor="#eeeeec">...\AssignDefaultCategoryServiceProvider.php<b>:</b>0</td>
 </tr>

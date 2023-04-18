@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0077</td>
 <td bgcolor="#eeeeec" align="right">364264</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\monolog\monolog\src\Monolog\Processor\MemoryUsageProcessor.php" bgcolor="#eeeeec">...\MemoryUsageProcessor.php<b>:</b>0</td>

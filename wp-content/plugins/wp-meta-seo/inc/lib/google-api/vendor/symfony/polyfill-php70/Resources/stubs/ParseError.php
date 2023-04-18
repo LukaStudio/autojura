@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="center">0.0044</td>
 <td bgcolor="#eeeeec" align="right">361120</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\polyfill-php70\Resources\stubs\ParseError.php" bgcolor="#eeeeec">...\ParseError.php<b>:</b>0</td>

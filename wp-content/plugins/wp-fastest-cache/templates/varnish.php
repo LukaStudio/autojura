@@ -43,8 +43,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">384856</td>
+<td bgcolor="#eeeeec" align="center">0.0197</td>
+<td bgcolor="#eeeeec" align="right">360656</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-fastest-cache\templates\varnish.php" bgcolor="#eeeeec">...\varnish.php<b>:</b>0</td>
 </tr>

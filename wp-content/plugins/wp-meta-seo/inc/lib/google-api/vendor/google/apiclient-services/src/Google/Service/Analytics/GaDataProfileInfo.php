@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">368200</td>
+<td bgcolor="#eeeeec" align="center">0.0271</td>
+<td bgcolor="#eeeeec" align="right">362784</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\google\apiclient-services\src\Google\Service\Analytics\GaDataProfileInfo.php" bgcolor="#eeeeec">...\GaDataProfileInfo.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0010</td>
-<td bgcolor="#eeeeec" align="right">524608</td>
+<td bgcolor="#eeeeec" align="center">0.0175</td>
+<td bgcolor="#eeeeec" align="right">525048</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Crypt\Rijndael.php" bgcolor="#eeeeec">...\Rijndael.php<b>:</b>0</td>
 </tr>

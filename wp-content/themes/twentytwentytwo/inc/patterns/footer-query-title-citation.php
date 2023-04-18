@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">364968</td>
+<td bgcolor="#eeeeec" align="center">0.0170</td>
+<td bgcolor="#eeeeec" align="right">364920</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentytwo\inc\patterns\footer-query-title-citation.php" bgcolor="#eeeeec">...\footer-query-title-citation.php<b>:</b>0</td>
 </tr>

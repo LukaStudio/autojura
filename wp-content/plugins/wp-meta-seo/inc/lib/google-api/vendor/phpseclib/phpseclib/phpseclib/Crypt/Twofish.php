@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">516656</td>
+<td bgcolor="#eeeeec" align="center">0.0154</td>
+<td bgcolor="#eeeeec" align="right">516632</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Crypt\Twofish.php" bgcolor="#eeeeec">...\Twofish.php<b>:</b>0</td>
 </tr>

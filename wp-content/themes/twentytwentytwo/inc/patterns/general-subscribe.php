@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">363456</td>
+<td bgcolor="#eeeeec" align="center">0.0120</td>
+<td bgcolor="#eeeeec" align="right">363520</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentytwo\inc\patterns\general-subscribe.php" bgcolor="#eeeeec">...\general-subscribe.php<b>:</b>0</td>
 </tr>

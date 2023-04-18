@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">366640</td>
+<td bgcolor="#eeeeec" align="center">0.0076</td>
+<td bgcolor="#eeeeec" align="right">361720</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Formatters\MoneyFormatter.php" bgcolor="#eeeeec">...\MoneyFormatter.php<b>:</b>0</td>
 </tr>

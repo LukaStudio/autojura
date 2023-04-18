@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">393440</td>
+<td bgcolor="#eeeeec" align="center">0.0113</td>
+<td bgcolor="#eeeeec" align="right">362496</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\symfony\css-selector\XPath\Extension\NodeExtension.php" bgcolor="#eeeeec">...\NodeExtension.php<b>:</b>0</td>
 </tr>

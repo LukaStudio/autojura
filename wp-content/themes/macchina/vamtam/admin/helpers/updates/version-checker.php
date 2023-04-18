@@ -16,21 +16,21 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">360216</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\macchina\vamtam\admin\helpers\updates\version-checker.php" bgcolor="#eeeeec">...\version-checker.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">360216</td>
 <td bgcolor="#eeeeec">Version_Checker::get_instance(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\macchina\vamtam\admin\helpers\updates\version-checker.php" bgcolor="#eeeeec">...\version-checker.php<b>:</b>285</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">360424</td>
 <td bgcolor="#eeeeec">Version_Checker->__construct(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\macchina\vamtam\admin\helpers\updates\version-checker.php" bgcolor="#eeeeec">...\version-checker.php<b>:</b>24</td>

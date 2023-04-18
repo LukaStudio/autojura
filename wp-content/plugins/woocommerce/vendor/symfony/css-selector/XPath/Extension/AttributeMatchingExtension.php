@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">379464</td>
+<td bgcolor="#eeeeec" align="center">0.0292</td>
+<td bgcolor="#eeeeec" align="right">361520</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\symfony\css-selector\XPath\Extension\AttributeMatchingExtension.php" bgcolor="#eeeeec">...\AttributeMatchingExtension.php<b>:</b>0</td>
 </tr>

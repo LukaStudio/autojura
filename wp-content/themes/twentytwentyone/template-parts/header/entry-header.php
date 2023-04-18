@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">360632</td>
+<td bgcolor="#eeeeec" align="center">0.0088</td>
+<td bgcolor="#eeeeec" align="right">360688</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentyone\template-parts\header\entry-header.php" bgcolor="#eeeeec">...\entry-header.php<b>:</b>0</td>
 </tr>

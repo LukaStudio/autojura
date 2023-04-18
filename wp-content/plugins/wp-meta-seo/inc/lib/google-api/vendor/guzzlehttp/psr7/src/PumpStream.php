@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">377608</td>
+<td bgcolor="#eeeeec" align="center">0.0247</td>
+<td bgcolor="#eeeeec" align="right">362904</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\guzzlehttp\psr7\src\PumpStream.php" bgcolor="#eeeeec">...\PumpStream.php<b>:</b>0</td>
 </tr>

@@ -13,15 +13,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Client&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Client&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -42,15 +42,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0016</td>
-<td bgcolor="#eeeeec" align="right">379704</td>
+<td bgcolor="#eeeeec" align="center">0.0078</td>
+<td bgcolor="#eeeeec" align="right">361712</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Service&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Service&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -71,15 +71,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0029</td>
-<td bgcolor="#eeeeec" align="right">379704</td>
+<td bgcolor="#eeeeec" align="center">0.0082</td>
+<td bgcolor="#eeeeec" align="right">361712</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\AccessToken\\Revoke&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_AccessToken_Revoke&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -100,15 +100,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0038</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0084</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\AccessToken\\Verify&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_AccessToken_Verify&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -129,15 +129,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0046</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0087</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Model&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Model&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -158,15 +158,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0054</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0089</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Utils\\UriTemplate&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Utils_UriTemplate&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -187,15 +187,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0066</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0092</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\AuthHandler\\Guzzle6AuthHandler&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_AuthHandler_Guzzle6AuthHandler&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -216,15 +216,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0076</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0098</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\AuthHandler\\Guzzle7AuthHandler&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_AuthHandler_Guzzle7AuthHandler&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -245,15 +245,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0084</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0101</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\AuthHandler\\Guzzle5AuthHandler&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_AuthHandler_Guzzle5AuthHandler&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -274,15 +274,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0091</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0103</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\AuthHandler\\AuthHandlerFactory&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_AuthHandler_AuthHandlerFactory&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -303,15 +303,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0099</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0105</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Http\\Batch&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Http_Batch&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -332,15 +332,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0107</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0108</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Http\\MediaFileUpload&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Http_MediaFileUpload&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -361,15 +361,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0115</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0111</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Http\\REST&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Http_REST&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -390,15 +390,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0124</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0114</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Task\\Retryable&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Task_Retryable&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -419,15 +419,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0131</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0117</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Task\\Exception&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Task_Exception&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -448,15 +448,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0138</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0121</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Task\\Runner&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Task_Runner&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -477,15 +477,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0145</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0124</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Collection&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Collection&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -506,15 +506,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0151</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0129</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Service\\Exception&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Service_Exception&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -535,15 +535,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0158</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0132</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Service\\Resource&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Service_Resource&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -564,15 +564,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0166</td>
-<td bgcolor="#eeeeec" align="right">379816</td>
+<td bgcolor="#eeeeec" align="center">0.0137</td>
+<td bgcolor="#eeeeec" align="right">361824</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPMSGoogle\\Exception&#39;</span>, <span>$alias = </span><span>&#39;WPMSGoogle_Exception&#39;</span> )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>33</td>
@@ -596,8 +596,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">378456</td>
+<td bgcolor="#eeeeec" align="center">0.0074</td>
+<td bgcolor="#eeeeec" align="right">360464</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\src\aliases.php" bgcolor="#eeeeec">...\aliases.php<b>:</b>0</td>
 </tr>

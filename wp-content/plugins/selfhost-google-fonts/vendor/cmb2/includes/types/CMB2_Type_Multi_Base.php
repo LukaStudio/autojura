@@ -1,10 +1,4 @@
 <br>
-<font size="1"><table class="xdebug-error xe-deprecated" dir="ltr" border="1" cellspacing="0" cellpadding="1">
-<tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Deprecated: Required parameter $i follows optional parameter $args in C:\wamp64\www\autojura\wp-content\plugins\selfhost-google-fonts\vendor\cmb2\includes\types\CMB2_Type_Multi_Base.php on line <i>34</i>
-</th></tr>
-</table></font>
-<br>
 <font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
 <tr><th align="left" bgcolor="#f57900" colspan="5">
 <span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Class "CMB2_Type_Base" not found in C:\wamp64\www\autojura\wp-content\plugins\selfhost-google-fonts\vendor\cmb2\includes\types\CMB2_Type_Multi_Base.php on line <i>13</i>
@@ -22,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">362376</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">360672</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\selfhost-google-fonts\vendor\cmb2\includes\types\CMB2_Type_Multi_Base.php" bgcolor="#eeeeec">...\CMB2_Type_Multi_Base.php<b>:</b>0</td>
 </tr>

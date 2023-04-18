@@ -31,8 +31,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">369888</td>
+<td bgcolor="#eeeeec" align="center">0.0402</td>
+<td bgcolor="#eeeeec" align="right">360672</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\patterns\store-info-alt-image-and-text.php" bgcolor="#eeeeec">...\store-info-alt-image-and-text.php<b>:</b>0</td>
 </tr>

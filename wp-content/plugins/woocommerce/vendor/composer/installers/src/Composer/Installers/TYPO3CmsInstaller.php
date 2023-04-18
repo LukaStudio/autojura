@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">362384</td>
+<td bgcolor="#eeeeec" align="center">0.0014</td>
+<td bgcolor="#eeeeec" align="right">361024</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\composer\installers\src\Composer\Installers\TYPO3CmsInstaller.php" bgcolor="#eeeeec">...\TYPO3CmsInstaller.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">377240</td>
+<td bgcolor="#eeeeec" align="center">0.0162</td>
+<td bgcolor="#eeeeec" align="right">377208</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentytwo\inc\block-patterns.php" bgcolor="#eeeeec">...\block-patterns.php<b>:</b>0</td>
 </tr>

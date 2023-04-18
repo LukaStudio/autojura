@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
+<td bgcolor="#eeeeec" align="center">0.0086</td>
 <td bgcolor="#eeeeec" align="right">362192</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\elementor\app\modules\import-export\runners\import\elementor-content.php" bgcolor="#eeeeec">...\elementor-content.php<b>:</b>0</td>

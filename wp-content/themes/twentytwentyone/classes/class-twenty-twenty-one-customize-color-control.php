@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">365648</td>
+<td bgcolor="#eeeeec" align="center">0.0260</td>
+<td bgcolor="#eeeeec" align="right">365560</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentyone\classes\class-twenty-twenty-one-customize-color-control.php" bgcolor="#eeeeec">...\class-twenty-twenty-one-customize-color-control.php<b>:</b>0</td>
 </tr>

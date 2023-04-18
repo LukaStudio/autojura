@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">361240</td>
+<td bgcolor="#eeeeec" align="center">0.0057</td>
+<td bgcolor="#eeeeec" align="right">360320</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\templates\emails\email-mobile-messaging.php" bgcolor="#eeeeec">...\email-mobile-messaging.php<b>:</b>0</td>
 </tr>

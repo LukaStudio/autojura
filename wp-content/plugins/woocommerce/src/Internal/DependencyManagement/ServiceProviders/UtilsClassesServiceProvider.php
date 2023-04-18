@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">370016</td>
+<td bgcolor="#eeeeec" align="center">0.0082</td>
+<td bgcolor="#eeeeec" align="right">361632</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\DependencyManagement\ServiceProviders\UtilsClassesServiceProvider.php" bgcolor="#eeeeec">...\UtilsClassesServiceProvider.php<b>:</b>0</td>
 </tr>

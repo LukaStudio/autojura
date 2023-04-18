@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">423136</td>
+<td bgcolor="#eeeeec" align="center">0.0124</td>
+<td bgcolor="#eeeeec" align="right">423192</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\symfony\dom-crawler\Form.php" bgcolor="#eeeeec">...\Form.php<b>:</b>0</td>
 </tr>

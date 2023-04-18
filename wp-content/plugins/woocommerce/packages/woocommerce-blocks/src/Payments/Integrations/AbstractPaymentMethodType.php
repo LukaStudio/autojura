@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">369208</td>
+<td bgcolor="#eeeeec" align="center">0.0093</td>
+<td bgcolor="#eeeeec" align="right">362488</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\AbstractPaymentMethodType.php" bgcolor="#eeeeec">...\AbstractPaymentMethodType.php<b>:</b>0</td>
 </tr>

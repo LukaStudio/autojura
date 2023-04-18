@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">366352</td>
+<td bgcolor="#eeeeec" align="center">0.0085</td>
+<td bgcolor="#eeeeec" align="right">361344</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\Admin\ProductForm\Field.php" bgcolor="#eeeeec">...\Field.php<b>:</b>0</td>
 </tr>

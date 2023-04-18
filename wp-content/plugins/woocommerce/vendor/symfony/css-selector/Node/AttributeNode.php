@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">370952</td>
+<td bgcolor="#eeeeec" align="center">0.0246</td>
+<td bgcolor="#eeeeec" align="right">361912</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\vendor\symfony\css-selector\Node\AttributeNode.php" bgcolor="#eeeeec">...\AttributeNode.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">385256</td>
+<td bgcolor="#eeeeec" align="center">0.0082</td>
+<td bgcolor="#eeeeec" align="right">362952</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\lib\packages\League\Container\Definition\Definition.php" bgcolor="#eeeeec">...\Definition.php<b>:</b>0</td>
 </tr>

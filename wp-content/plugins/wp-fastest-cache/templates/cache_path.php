@@ -36,8 +36,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">372672</td>
+<td bgcolor="#eeeeec" align="center">0.0181</td>
+<td bgcolor="#eeeeec" align="right">360872</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-fastest-cache\templates\cache_path.php" bgcolor="#eeeeec">...\cache_path.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">369136</td>
+<td bgcolor="#eeeeec" align="center">0.0167</td>
+<td bgcolor="#eeeeec" align="right">360320</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-fastest-cache-premium\pro\templates\image-statics.php" bgcolor="#eeeeec">...\image-statics.php<b>:</b>0</td>
 </tr>

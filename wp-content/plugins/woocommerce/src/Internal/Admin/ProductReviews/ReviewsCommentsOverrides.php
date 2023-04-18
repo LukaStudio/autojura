@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">380016</td>
+<td bgcolor="#eeeeec" align="center">0.0222</td>
+<td bgcolor="#eeeeec" align="right">361832</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\ReviewsCommentsOverrides.php" bgcolor="#eeeeec">...\ReviewsCommentsOverrides.php<b>:</b>0</td>
 </tr>

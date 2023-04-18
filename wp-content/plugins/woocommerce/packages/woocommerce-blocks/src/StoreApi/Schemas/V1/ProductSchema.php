@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">515440</td>
+<td bgcolor="#eeeeec" align="center">0.0284</td>
+<td bgcolor="#eeeeec" align="right">363344</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\V1\ProductSchema.php" bgcolor="#eeeeec">...\ProductSchema.php<b>:</b>0</td>
 </tr>

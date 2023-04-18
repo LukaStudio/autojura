@@ -13,8 +13,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">386424</td>
+<td bgcolor="#eeeeec" align="center">0.0070</td>
+<td bgcolor="#eeeeec" align="right">361720</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\QuantityLimits.php" bgcolor="#eeeeec">...\QuantityLimits.php<b>:</b>0</td>
 </tr>

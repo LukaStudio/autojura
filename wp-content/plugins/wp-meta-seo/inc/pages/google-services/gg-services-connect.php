@@ -17,8 +17,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">380952</td>
+<td bgcolor="#eeeeec" align="center">0.1222</td>
+<td bgcolor="#eeeeec" align="right">380896</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\pages\google-services\gg-services-connect.php" bgcolor="#eeeeec">...\gg-services-connect.php<b>:</b>0</td>
 </tr>

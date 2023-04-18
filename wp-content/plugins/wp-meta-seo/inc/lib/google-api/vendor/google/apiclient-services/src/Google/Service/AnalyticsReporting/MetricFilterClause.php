@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">364992</td>
+<td bgcolor="#eeeeec" align="center">0.0215</td>
+<td bgcolor="#eeeeec" align="right">362432</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\google\apiclient-services\src\Google\Service\AnalyticsReporting\MetricFilterClause.php" bgcolor="#eeeeec">...\MetricFilterClause.php<b>:</b>0</td>
 </tr>

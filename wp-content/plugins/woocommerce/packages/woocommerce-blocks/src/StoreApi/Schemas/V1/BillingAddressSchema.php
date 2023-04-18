@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">377616</td>
+<td bgcolor="#eeeeec" align="center">0.0165</td>
+<td bgcolor="#eeeeec" align="right">362368</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\V1\BillingAddressSchema.php" bgcolor="#eeeeec">...\BillingAddressSchema.php<b>:</b>0</td>
 </tr>

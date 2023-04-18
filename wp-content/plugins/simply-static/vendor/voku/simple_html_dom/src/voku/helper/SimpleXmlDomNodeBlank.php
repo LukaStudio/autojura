@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0089</td>
 <td bgcolor="#eeeeec" align="right">361528</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\SimpleXmlDomNodeBlank.php" bgcolor="#eeeeec">...\SimpleXmlDomNodeBlank.php<b>:</b>0</td>

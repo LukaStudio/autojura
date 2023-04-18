@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0014</td>
-<td bgcolor="#eeeeec" align="right">626416</td>
+<td bgcolor="#eeeeec" align="center">0.1078</td>
+<td bgcolor="#eeeeec" align="right">364128</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\ReviewsListTable.php" bgcolor="#eeeeec">...\ReviewsListTable.php<b>:</b>0</td>
 </tr>

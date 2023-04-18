@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">448000</td>
+<td bgcolor="#eeeeec" align="center">0.0237</td>
+<td bgcolor="#eeeeec" align="right">449392</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\guzzlehttp\psr7\src\Uri.php" bgcolor="#eeeeec">...\Uri.php<b>:</b>0</td>
 </tr>

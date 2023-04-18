@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">367280</td>
+<td bgcolor="#eeeeec" align="center">0.0113</td>
+<td bgcolor="#eeeeec" align="right">361856</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\SingleProduct.php" bgcolor="#eeeeec">...\SingleProduct.php<b>:</b>0</td>
 </tr>

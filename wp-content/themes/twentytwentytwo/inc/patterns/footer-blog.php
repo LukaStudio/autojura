@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">366496</td>
+<td bgcolor="#eeeeec" align="center">0.0120</td>
+<td bgcolor="#eeeeec" align="right">366448</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentytwo\inc\patterns\footer-blog.php" bgcolor="#eeeeec">...\footer-blog.php<b>:</b>0</td>
 </tr>

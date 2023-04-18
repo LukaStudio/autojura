@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">464832</td>
+<td bgcolor="#eeeeec" align="center">0.0137</td>
+<td bgcolor="#eeeeec" align="right">464992</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\phpseclib\phpseclib\phpseclib\Crypt\Blowfish.php" bgcolor="#eeeeec">...\Blowfish.php<b>:</b>0</td>
 </tr>

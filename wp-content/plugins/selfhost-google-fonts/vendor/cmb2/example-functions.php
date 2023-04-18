@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0030</td>
+<td bgcolor="#eeeeec" align="center">0.0302</td>
 <td bgcolor="#eeeeec" align="right">361024</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\selfhost-google-fonts\vendor\cmb2\example-functions.php" bgcolor="#eeeeec">...\example-functions.php<b>:</b>0</td>

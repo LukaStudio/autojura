@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">380992</td>
+<td bgcolor="#eeeeec" align="center">0.0388</td>
+<td bgcolor="#eeeeec" align="right">361952</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments.php" bgcolor="#eeeeec">...\WooCommercePayments.php<b>:</b>0</td>
 </tr>

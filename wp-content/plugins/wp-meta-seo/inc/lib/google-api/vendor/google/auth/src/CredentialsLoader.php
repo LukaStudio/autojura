@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">397632</td>
+<td bgcolor="#eeeeec" align="center">0.0121</td>
+<td bgcolor="#eeeeec" align="right">362296</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\google\auth\src\CredentialsLoader.php" bgcolor="#eeeeec">...\CredentialsLoader.php<b>:</b>0</td>
 </tr>

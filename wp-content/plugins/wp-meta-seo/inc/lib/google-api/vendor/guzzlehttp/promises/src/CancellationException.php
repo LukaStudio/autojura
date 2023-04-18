@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">361504</td>
+<td bgcolor="#eeeeec" align="center">0.0049</td>
+<td bgcolor="#eeeeec" align="right">360688</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-meta-seo\inc\lib\google-api\vendor\guzzlehttp\promises\src\CancellationException.php" bgcolor="#eeeeec">...\CancellationException.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">367720</td>
+<td bgcolor="#eeeeec" align="center">0.0123</td>
+<td bgcolor="#eeeeec" align="right">361760</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\src\Internal\DependencyManagement\ServiceProviders\DownloadPermissionsAdjusterServiceProvider.php" bgcolor="#eeeeec">...\DownloadPermissionsAdjusterServiceProvider.php<b>:</b>0</td>
 </tr>

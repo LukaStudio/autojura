@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">372016</td>
+<td bgcolor="#eeeeec" align="center">0.0246</td>
+<td bgcolor="#eeeeec" align="right">362320</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\vendor\composer\installers\src\Composer\Installers\PxcmsInstaller.php" bgcolor="#eeeeec">...\PxcmsInstaller.php<b>:</b>0</td>
 </tr>

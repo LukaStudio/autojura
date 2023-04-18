@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">366424</td>
+<td bgcolor="#eeeeec" align="center">0.0052</td>
+<td bgcolor="#eeeeec" align="right">361304</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\lib\packages\League\Container\ServiceProvider\BootableServiceProviderInterface.php" bgcolor="#eeeeec">...\BootableServiceProviderInterface.php<b>:</b>0</td>
 </tr>

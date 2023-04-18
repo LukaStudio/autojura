@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">367376</td>
+<td bgcolor="#eeeeec" align="center">0.0097</td>
+<td bgcolor="#eeeeec" align="right">361136</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractDynamicBlock.php" bgcolor="#eeeeec">...\AbstractDynamicBlock.php<b>:</b>0</td>
 </tr>

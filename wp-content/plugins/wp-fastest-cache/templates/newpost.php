@@ -33,8 +33,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">373880</td>
+<td bgcolor="#eeeeec" align="center">0.0365</td>
+<td bgcolor="#eeeeec" align="right">360784</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\plugins\wp-fastest-cache\templates\newpost.php" bgcolor="#eeeeec">...\newpost.php<b>:</b>0</td>
 </tr>

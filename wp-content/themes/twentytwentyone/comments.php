@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">370344</td>
+<td bgcolor="#eeeeec" align="center">0.0273</td>
+<td bgcolor="#eeeeec" align="right">370296</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\autojura\wp-content\themes\twentytwentyone\comments.php" bgcolor="#eeeeec">...\comments.php<b>:</b>0</td>
 </tr>
